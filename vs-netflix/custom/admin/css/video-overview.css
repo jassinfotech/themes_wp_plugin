@@ -1,0 +1,33 @@
+.wpvs-video-order-column {
+    padding-left: 15px;
+}
+
+/* ==== BULK EDITING ==== */
+
+#wpbody-content .inline-edit-row fieldset.wpvs-bulk-edit-column {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 20px;
+    margin: 15px 0;
+    clear: both;
+    overflow: hidden;
+}
+
+#wpbody-content .inline-edit-row fieldset.wpvs-bulk-edit-column h4 {
+    font-size: 1.5em;
+    margin: 0 0 0.5em;
+}
+
+#wpbody-content .bulk-edit-row fieldset .inline-edit-group .wpvs-rating-select label.wpvs-rating-icon {
+    max-width: none;
+}
+
+@media screen and (min-width: 783px) {
+#wpbody-content .inline-edit-rvs_video .inline-edit-col-center,
+#wpbody-content .inline-edit-rvs_video .inline-edit-col-right {
+    width: 50%;
+    float: right;
+    clear: right;
+}
+}

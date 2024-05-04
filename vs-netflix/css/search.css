@@ -1,0 +1,196 @@
+#vs-search {
+    position: fixed;
+    top: 0;
+    padding: 50px 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 9999;
+    overflow: hidden;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+    opacity: 0;
+    transform: translate3d(0,120%,0);
+    -wwebkit-transform: translate3d(0,120%,0);
+    -moz-transform: translate3d(0,120%,0);
+    -webkit-backface-visibility: hidden; /* Chrome, Safari, Opera */
+    backface-visibility: hidden;
+}
+
+#vs-search .video-list, #vs-search-videos {
+    position: relative;
+    overflow: hidden;
+    clear: both;
+}
+
+#vs-search .video-item {
+    text-align: left;
+}
+
+.vs-show-search {
+    opacity: 1 !important;
+    transform: translate3d(0,0,0) !important;
+    -wwebkit-transform: translate3d(0,0,0) !important;
+    -moz-transform: translate3d(0,0,0) !important;
+}
+
+.vs-rotate-search {
+    transform: rotateZ(90deg);
+    -wwebkit-transform: rotateZ(90deg);
+    -moz-transform: rotateZ(90deg);
+}
+
+#vs-search-results {
+    padding: 25px 20px;
+}
+#vs-search-videos {
+    padding: 25px 20px;
+}
+
+#vs-search-input {
+    display: block;
+    width: 92%;
+    padding: 10px 0 10px 40px;
+    margin: 0 auto;
+    font-size: 24px;
+    border:none;
+    border-radius: 0;
+}
+
+.vs-loading {
+    padding: 150px 0;
+}
+
+.vs-loading-text {
+    display: block;
+    margin: 0 0 20px;
+}
+
+#searching-videos {
+    display: none;
+}
+
+
+#vs-open-search {
+    cursor: pointer;
+}
+
+#vs-open-search:hover {
+    color: #e50914;
+}
+
+#vs-search-tax {
+    clear:both;
+    overflow: hidden;
+    text-align: left;
+    position: relative;
+}
+
+.vs-results-tax {
+    width: 98%;
+    padding: 10px;
+    margin: 0 1%;
+    display: none;
+}
+
+#vs-search-tax label {
+    display: block;
+    padding: 5px;
+    position: relative;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.vs-tax-result {
+    display: block;
+    padding: 10px 5px;
+    position: relative;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    padding-right: 25px;
+}
+
+.vs-tax-result.wpvs-profile {
+    display: table;
+    width: 100%;
+}
+
+.wpvs-profile-image, .wpvs-profile-name {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.wpvs-profile-image img {
+    display: block;
+    border-radius: 50%;
+    overflow: hidden;
+    max-width: 80px;
+}
+.wpvs-profile-name {
+    padding-left: 15px;
+    width: 80%;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.vs-tax-result:hover {
+    color: #e50914;
+}
+
+@media screen and (min-width: 960px) {
+    
+#vs-open-search {
+    padding-right: 10px;
+}
+    
+#vs-search {
+    padding: 60px 0 50px;
+}
+    
+#vs-search-results {
+    padding: 25px 60px;
+    overflow: hidden;
+}
+    
+#vs-search .video-list, #vs-search-videos {
+    overflow: visible;
+}
+    
+#vs-search-videos {
+    padding: 25px 0;
+}
+
+#vs-search-tax {
+    width: 30%;
+    float: left;
+    max-width: 350px;
+    clear: none;
+}
+#vs-search-videos {
+    width: 68%;
+    float: right;
+    clear: none;
+}
+    
+#vs-search-input {
+    padding: 10px 0 10px 75px;
+}
+    
+.wpvs-profile-image img {
+    max-width: 100%;
+}
+}
+
+@media screen and (min-width: 1400px) {
+#vs-search {
+    padding: 80px 0 50px;
+}
+#vs-search-tax {
+    width: 20%;
+}
+#vs-search-videos {
+    width: 78%;
+}
+}

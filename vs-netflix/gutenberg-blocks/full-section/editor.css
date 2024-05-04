@@ -1,0 +1,20 @@
+/**
+ * Note that these styles are loaded *after* common styles, so that
+ * editor-specific styles using the same selectors will take precedence.
+ */
+ .wp-block-wpvs-theme-blocks-full-section-block {
+     padding: 2em;
+     position: relative;
+ }
+
+ .wp-block-wpvs-theme-blocks-full-section-block:hover {
+     border: 4px solid aliceblue;
+ }
+
+ .wp-block-wpvs-theme-blocks-full-section-block:before {
+     content:"WPVS Theme Full Section";
+     position: absolute;
+     top: 5px;
+     left: 5px;
+ 	 font-size: 12px;
+ }

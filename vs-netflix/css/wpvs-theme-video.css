@@ -1,0 +1,239 @@
+.vs-full-screen-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+    display: none;
+    padding: 50px 0;
+}
+
+.show-full-screen-video {
+    display: block !important;
+}
+
+body.wpvs-hide-overflow {
+    overflow: hidden;
+}
+
+.wpvs-video-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    z-index: 99;
+}
+
+#single-wpvstheme-video-container {
+    padding: 2em 0;
+}
+
+#single-wpvstheme-video-container .videoWrapper {
+    height: 56.25vw;
+    width: 100vw;
+    padding-bottom: 0;
+}
+
+#vs-video-back {
+    cursor: pointer;
+    font-size: 20px;
+    display: inline-block;
+    margin: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 11px 20px 10px;
+    z-index: 10;
+}
+
+#vs-video-back .dashicons {
+    width: auto;
+    height: auto;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+/* ==== HEADER ==== */
+
+.vs-video-header {
+    width: 100%;
+    position:relative;
+    overflow: hidden;
+}
+
+.vs-video-header:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+}
+
+.vs-video-header img.video-image {
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: block;
+    width: auto;
+    min-width: 100%;
+    min-height: 100%;
+    max-width: 2000px;
+    transition: all 40s linear;
+    -webkit-transition: all 40s linear;
+    -moz-transition: all 40s linear;
+}
+
+.vs-video-details {
+    z-index: 2;
+    position: relative;
+    top: 0;
+    padding: 70px 20px 20px;
+    max-width: 500px;
+    min-width: 300px;
+    min-height: 350px
+}
+
+.vs-video-details h1 {
+    color: #e50914;
+}
+
+.vs-video-details p:last-of-type {
+    margin: 10px 0;
+}
+
+
+label#vs-less-video-info {
+    display: none;
+}
+
+.vs-video-description {
+    overflow: hidden;
+    position: relative;
+}
+
+#wpvs_audio_file_container {
+    display: none;
+}
+
+#wpvs_audio_file_container.show {
+    margin: 20px 0 0;
+    display: block;
+}
+
+.wpvs-full-screen-display #wpvs-autoplay-countdown {
+    height: 100%;
+    width: 100%;
+    bottom: auto;
+    top: 0;
+    text-align: center;
+    padding: 30% 4%;
+}
+
+.wpvs-full-screen-display #wpvs-cancel-next-video {
+    position: relative;
+    top: auto;
+    left: auto;
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin: 25px auto;
+}
+
+.wpvs-full-screen-display #wpvs-cancel-next-video .dashicons {
+    font-size: 50px;
+}
+
+#wpvs-single-background-trailer {
+    opacity:0;
+    transition: opacity 1s ease-in;
+    -webkit-transition: opacity 1s ease-in;
+    -moz-transition: opacity 1s ease-in;
+    -ms-transition: opacity 1s ease-in;
+}
+
+#wpvs-single-background-trailer.show-background-trailer {
+    opacity:1;
+}
+
+.wpvs-responsive-video {
+    position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	height: 0;
+    margin: 1em auto;
+}
+
+.wpvs-responsive-video iframe, .wpvs-responsive-video video, .wpvs-responsive-video embed, wpvs-responsive-video object, .wpvs-responsive-video .wp-video-shortcode {
+    position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.wpvs-responsive-video .wp-video-shortcode, .wpvs-responsive-video .wp-video {
+	width: 100% !important;
+	height: 100% !important;
+}
+
+@media screen and (min-width: 680px) {
+
+.wpvs-full-screen-display #wpvs-autoplay-countdown {
+    padding: 25%;
+}
+
+.vs-video-details {
+    padding: 150px 20px;
+    width: 500px;
+}
+
+.vs-video-header .vs-drop-play-button {
+    position:absolute;
+    bottom: 0;
+    right: 0;
+}
+
+}
+
+@media screen and (min-width: 960px) {
+
+.vs-video-header img.video-image {
+    transition: all 30s linear;
+    -webkit-transition: all 30s linear;
+    -moz-transition: all 30s linear;
+}
+
+.vs-video-details {
+    padding: 150px 60px;
+}
+
+.wpvs-full-screen-display #wpvs-autoplay-countdown {
+    padding: 20%;
+}
+
+}
+
+
+@media screen and (min-width: 1200px) {
+
+.vs-video-header img.video-image {
+    transition: all 25s linear;
+    -webkit-transition: all 25s linear;
+    -moz-transition: all 25s linear;
+}
+
+.vs-video-header .vs-drop-play-button {
+    margin: 200px 20% 0 0;
+    top:80px;
+}
+
+.wpvs-full-screen-display #wpvs-autoplay-countdown {
+    padding: 15%;
+}
+
+}

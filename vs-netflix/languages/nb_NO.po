@@ -1,0 +1,1613 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPVS Theme\n"
+"POT-Creation-Date: 2019-04-05 12:46-0700\n"
+"PO-Revision-Date: 2019-05-22 17:10-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:9 nothing-found.php:4
+msgid "Oops, there is nothing here! 404"
+msgstr "Oops, det er ingenting her! 404 for alle"
+
+#: 404.php:11 nothing-found.php:6
+msgid "If you think this is an error, please"
+msgstr "Hvis du tror dette er en feil, vennligst"
+
+#: 404.php:11 nothing-found.php:6
+msgid "contact us"
+msgstr "kontakt oss"
+
+#: 404.php:12 nothing-found.php:7
+msgid "Go to Home Page"
+msgstr "Gå til hjemmesiden"
+
+#. translators: %s: post title
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%s&rdquo;"
+msgstr "En kommentar på %s"
+
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s kommentar på \"%2$s\""
+msgstr[1] "%1$s kommentarer på \"%2$s\""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Kommentarfeltet er stengt."
+
+#: comments.php:83
+msgid "Leave A Reply"
+msgstr "Legg igjen en kommentar"
+
+#: footer.php:50
+msgid "Cookie Settings"
+msgstr "Innstillinger for informasjonskapsler"
+
+#: front-page.php:16 includes/custom-posts.php:9
+msgid "Featured Area"
+msgstr "Utvalgte område"
+
+#: front-page.php:17
+msgid ""
+"This is an example Featured Area. You can create multiple Featured Areas, "
+"each with multiple slides within the admin area."
+msgstr ""
+"Dette er et eksempel på utvalgt område. Du kan opprette flere utvalgte "
+"områder, hver med flere lysbilder i admin-området."
+
+#: front-page.php:18
+msgid "Create A Featured Area"
+msgstr "Opprett et utvalgt område"
+
+#: functions.php:13
+msgid "Watch Now"
+msgstr "Se nå"
+
+#: functions.php:73
+msgid "Video Landscape"
+msgstr "Video landskap"
+
+#: functions.php:74
+msgid "Video Portrait"
+msgstr "Video portrett"
+
+#: functions.php:75
+msgid "Featured Header"
+msgstr "Utvalgte header"
+
+#: functions.php:76
+msgid "Custom Video Thumbnail"
+msgstr "Egendefinert video miniatyr"
+
+#: functions.php:112
+msgid "Page Sidebar"
+msgstr "Side-sidelinje"
+
+#: functions.php:114
+msgid "Displays on the right side of page"
+msgstr "Vises på høyre side av siden"
+
+#: functions.php:122
+msgid "Blog Sidebar"
+msgstr "Blog sidekolonne"
+
+#: functions.php:124
+msgid "Displays on the right side of blog posts and blog page."
+msgstr "Viser på høyre side av blogginnlegg og blogg side."
+
+#: functions.php:219
+msgid ""
+"WPVS Theme Theme not activated: You need to upgrade your PHP Version to at "
+"least 5.5."
+msgstr ""
+"WPVS Theme tema ikke aktivert: du må oppgradere din PHP versjon til minst "
+"5,5."
+
+#: includes/admin-menu.php:5 includes/theme-settings.php:7
+msgid "Theme Styling"
+msgstr "Tema styling"
+
+#: includes/admin-menu.php:6 includes/theme-google-tracking.php:23
+msgid "Google Tracking"
+msgstr "Google-sporing"
+
+#: includes/admin-menu.php:7 includes/theme-social-settings.php:35
+msgid "Social Media"
+msgstr "Sosiale medier"
+
+#: includes/admin-menu.php:8
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: includes/admin-menu.php:9
+msgid "Updates"
+msgstr "Oppdateringer"
+
+#: includes/admin/dynamic-slider-admin.php:18
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Du har ikke tilstrekkelige tillatelser til å få tilgang til denne siden."
+
+#: includes/admin/dynamic-slider-admin.php:37 includes/customize.php:345
+msgid "Featured Area Sliders"
+msgstr "Utvalgte område glidere"
+
+#: includes/admin/dynamic-slider-admin.php:55
+msgid "Save Title"
+msgstr "Lagre tittel"
+
+#: includes/admin/dynamic-slider-admin.php:57
+msgid "Delete Slider"
+msgstr "Slett glidebryter"
+
+#: includes/admin/dynamic-slider-admin.php:59
+msgid "New Slide"
+msgstr "Ny Slide"
+
+#: includes/admin/dynamic-slider-admin.php:67
+msgid "Save Settings"
+msgstr "Lagre innstillinger"
+
+#: includes/admin/dynamic-slider-admin.php:176
+msgid "Saving"
+msgstr "Lagrer"
+
+#: includes/admin/dynamic-slider-admin.php:186
+msgid "Set Image"
+msgstr "Velg bilde"
+
+#: includes/admin/dynamic-slider-admin.php:187
+msgid "Set Video"
+msgstr "Sett video"
+
+#: includes/admin/dynamic-slider-admin.php:193
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: includes/admin/dynamic-slider-admin.php:199
+msgid "Vimeo URL"
+msgstr "Vimeo-URL"
+
+#: includes/admin/dynamic-slider-admin.php:205
+msgid "HTML iFrame"
+msgstr "HTML iFrame"
+
+#: includes/admin/dynamic-slider-admin.php:210
+msgid "Upload"
+msgstr "Last opp"
+
+#: includes/admin/dynamic-slider-admin.php:211
+msgid "Choose Video"
+msgstr "Velg video"
+
+#: includes/admin/dynamic-slider-admin.php:215
+msgid "Mute Video"
+msgstr "Slå av lyd på video"
+
+#: includes/admin/dynamic-slider-admin.php:219
+msgid "Aspect Ratio"
+msgstr "Visningsforhold"
+
+#: includes/admin/dynamic-slider-admin.php:221
+msgid "16:9 (Default)"
+msgstr "16:9 (standard)"
+
+#: includes/admin/dynamic-slider-admin.php:222
+msgid "2.39:1 (Cinematic)"
+msgstr "2.39:1 (filmatisk)"
+
+#: includes/admin/dynamic-slider-admin.php:228
+msgid "Videos"
+msgstr "Videoer"
+
+#: includes/admin/dynamic-slider-admin.php:235
+msgid "Video Categories"
+msgstr "Video kategorier"
+
+#: includes/admin/dynamic-slider-admin.php:259
+msgid "Pages"
+msgstr "Sider"
+
+#: includes/admin/dynamic-slider-admin.php:271
+msgid "Categories"
+msgstr "Kategorier"
+
+#: includes/admin/dynamic-slider-admin.php:283
+msgid "Posts"
+msgstr "Innlegg"
+
+#: includes/admin/dynamic-slider-admin.php:295
+msgid "Image Alt"
+msgstr "Bilde alt"
+
+#: includes/admin/dynamic-slider-admin.php:299
+msgid "Heading"
+msgstr "Overskrift"
+
+#: includes/admin/dynamic-slider-admin.php:303
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: includes/admin/dynamic-slider-admin.php:307
+msgid "Button Text"
+msgstr "Tekst for knapp"
+
+#: includes/admin/dynamic-slider-admin.php:316
+msgid "Button Size"
+msgstr "Knappstørrelse"
+
+#: includes/admin/dynamic-slider-admin.php:318
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/admin/dynamic-slider-admin.php:319
+msgid "Large"
+msgstr "Stor"
+
+#: includes/admin/dynamic-slider-admin.php:324
+msgid "Links To"
+msgstr "Lenker til"
+
+#: includes/admin/dynamic-slider-admin.php:333
+msgid "Align Content"
+msgstr "Juster innhold"
+
+#: includes/admin/dynamic-slider-admin.php:335
+msgid "Left"
+msgstr "Venstre"
+
+#: includes/admin/dynamic-slider-admin.php:336
+msgid "Center"
+msgstr "Sentrert"
+
+#: includes/admin/dynamic-slider-admin.php:337
+msgid "Right"
+msgstr "Høyre"
+
+#: includes/admin/dynamic-slider-admin.php:341
+msgid "Link entire slide"
+msgstr "Koble hele lysbildet"
+
+#: includes/admin/dynamic-slider-admin.php:353
+msgid "Open in new tab"
+msgstr "Åpne i ny fane"
+
+#: includes/admin/dynamic-slider-admin.php:365
+msgid "Edit"
+msgstr "Redigér"
+
+#: includes/admin/dynamic-slider-admin.php:375
+msgid "Add New Slider"
+msgstr "Legg til ny glidebryter"
+
+#: includes/custom-ajax.php:549 includes/custom-ajax.php:551
+#: includes/custom-functions.php:384 includes/customize.php:953
+#: includes/scripts.php:331
+msgid "My List"
+msgstr "Min liste"
+
+#: includes/custom-functions.php:163
+#, php-format
+msgid "based on <a class=\"wpvs-review-anchor\" href=\"%s\">%d reviews</a>"
+msgstr ""
+"basert på <a class=\"wpvs-review-anchor\" href=\"%s\">% d anmeldelser</a>"
+
+#: includes/custom-functions.php:165
+#, php-format
+msgid ""
+"No reviews yet. <a class=\"wpvs-review-anchor\" href=\"%s\">Leave A Review</"
+"a>"
+msgstr ""
+"Ingen anmeldelser ennå. <a class=\"wpvs-review-anchor\" href=\"%s\">Legg "
+"igjen en anmeldelse</a>"
+
+#: includes/custom-functions.php:314
+msgid "Something is wrong with this videos Shortcode"
+msgstr "Noe er galt med denne videoer mangel"
+
+#: includes/custom-posts.php:18
+msgid "Video Options"
+msgstr "Videoalternativer"
+
+#: includes/custom-posts.php:26
+msgid "Thumbnail Image"
+msgstr "Miniatyrbilde URL"
+
+#: includes/custom-posts.php:34
+msgid "Video Page Layout"
+msgstr "Video sideoppsett"
+
+#: includes/custom-posts.php:45
+msgid "Page Options"
+msgstr "Sideinnstillinger"
+
+#: includes/custom-posts.php:88
+msgid "Slider:"
+msgstr "Glidebryteren:"
+
+#: includes/custom-posts.php:101
+msgid "Shortcode:"
+msgstr "Kortkode:"
+
+#: includes/custom-posts.php:138
+msgid "Hide on homepage sliders"
+msgstr "Skjul på hjemmeside glidere"
+
+#: includes/custom-posts.php:139 includes/custom-posts.php:611
+#: includes/custom-posts.php:711
+msgid "Hide on Homepage"
+msgstr "Skjul på hjemmesiden"
+
+#: includes/custom-posts.php:140
+msgid "Hide from Recently Added"
+msgstr "Skjul fra nylig lagt til"
+
+#: includes/custom-posts.php:144
+msgid "Slide Links to"
+msgstr "Skyv koblinger til"
+
+#: includes/custom-posts.php:146
+msgid "Video Page"
+msgstr "Video side"
+
+#: includes/custom-posts.php:190
+msgid "Remove Top Header Spacing"
+msgstr "Fjern øvre topptekst avstand"
+
+#: includes/custom-posts.php:349
+msgid "Trailer Preview"
+msgstr "Forhåndsvisning av trailer"
+
+#: includes/custom-posts.php:476 includes/custom-posts.php:587
+#: includes/custom-posts.php:690
+msgid "Customizer"
+msgstr "Tilpasser"
+
+#: includes/custom-posts.php:554 includes/custom-posts.php:658
+msgid "Contains TV Shows"
+msgstr "Inneholder TV-programmer"
+
+#: includes/custom-posts.php:555 includes/custom-posts.php:661
+msgid ""
+"Lists TV Shows. Is this a main category for shows (TV Action, TV Comedy, etc)"
+msgstr ""
+"Viser en liste over TV-programmer. Er dette en hoved kategori for show (TV "
+"action, TV Comedy, etc)"
+
+#: includes/custom-posts.php:563 includes/custom-posts.php:666
+msgid "Series / TV Show (Has Seasons)"
+msgstr "Serie/TV-show (har sesonger)"
+
+#: includes/custom-posts.php:564
+msgid "Is this a TV Show with Seasons and Episodes?"
+msgstr "Er dette et TV-show med sesonger og episoder?"
+
+#: includes/custom-posts.php:565 includes/custom-posts.php:669
+msgid "Leave this <strong>unchecked</strong> if:"
+msgstr "La dette <strong>alternativet være umerket</strong> hvis:"
+
+#: includes/custom-posts.php:578
+msgid "TV Show Thumbnail Size"
+msgstr "TV Vis thumbnail størrelse"
+
+#: includes/custom-posts.php:587
+msgid "If this is a TV Show, upload a thumbnail image"
+msgstr "Hvis dette er et TV-program, laster du opp et miniatyrbilde"
+
+#: includes/custom-posts.php:590 includes/custom-posts.php:695
+msgid "Subcategories Order"
+msgstr "Rekkefølge for under Kategorier"
+
+#: includes/custom-posts.php:593 includes/custom-posts.php:698
+msgid "Title (Default)"
+msgstr "Tittel (standard)"
+
+#: includes/custom-posts.php:594 includes/custom-posts.php:699
+msgid "ID (Creation Date)"
+msgstr "ID (opprettelsesdato)"
+
+#: includes/custom-posts.php:596
+msgid "How subcategories should be ordered"
+msgstr "Hvordan under Kategorier skal bestilles"
+
+#: includes/custom-posts.php:601 includes/custom-posts.php:704
+msgid "Homepage Order"
+msgstr "Hjemmeside Bestill"
+
+#: includes/custom-posts.php:602 includes/custom-posts.php:707
+msgid "Order of appearance on home page"
+msgstr "Rekkefølgen på utseendet på startsiden"
+
+#: includes/custom-posts.php:612 includes/custom-posts.php:714
+msgid "Hide this category on home page sliders"
+msgstr "Skjul denne kategorien på startside glidebryterne"
+
+#: includes/custom-posts.php:679
+msgid "TV Show Thumbnail Image"
+msgstr "TV-show miniatyrbilde"
+
+#: includes/custom-posts.php:718
+msgid "Featured Slider"
+msgstr "Fremhevet slideshow"
+
+#: includes/custom-posts.php:784 includes/custom-posts.php:822
+msgid "Profile Image"
+msgstr "Profilbilde"
+
+#: includes/custom-posts.php:791 includes/custom-posts.php:830
+msgid "Recommended size"
+msgstr "Anbefalt størrelse"
+
+#: includes/custom-posts.php:795 includes/custom-posts.php:834
+msgid "Profile Link (IMDb)"
+msgstr "Profil kobling (IMDb)"
+
+#: includes/custom-posts.php:797 includes/custom-posts.php:837
+msgid "Link to a profile such as on IMDb"
+msgstr "Koble til en profil, for eksempel på IMDb"
+
+#: includes/customize.php:11
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/customize.php:27
+msgid "Desktop Logo Height (px)"
+msgstr "Desktop logo høyde (px)"
+
+#: includes/customize.php:28
+msgid "Set the height of your logo on tablets and desktops."
+msgstr "Angi høyden på logoen på nettbrett og skrivebord."
+
+#: includes/customize.php:37
+msgid "Mobile Logo"
+msgstr "Mobil-logo"
+
+#: includes/customize.php:53
+msgid "Mobile Logo Height (px)"
+msgstr "Mobil logo høyde (px)"
+
+#: includes/customize.php:54
+msgid "Set the height of your logo on mobile devices."
+msgstr "Angi høyden på logoen på mobilenheter."
+
+#: includes/customize.php:67
+msgid "Login Logo Height (px)"
+msgstr "Logg inn logo høyde (px)"
+
+#: includes/customize.php:68
+msgid "Set the height of your logo on the Login screen."
+msgstr "Angi høyden på logoen din på innloggingsskjermen."
+
+#: includes/customize.php:79
+msgid "Theme Style"
+msgstr "Tema stil"
+
+#: includes/customize.php:93
+msgid "Accent Color"
+msgstr "Themets kontrastfarge"
+
+#: includes/customize.php:101
+msgid "Header"
+msgstr "Header"
+
+#: includes/customize.php:102
+msgid "Header area customization."
+msgstr "Tilpassing av Overskriftsområde."
+
+#: includes/customize.php:114
+msgid "Search placeholder text"
+msgstr "Search placeholder text"
+
+#: includes/customize.php:116
+msgid "Placeholder text for the search input"
+msgstr "Plassholdertekst for søke inn data"
+
+#: includes/customize.php:127
+msgid "Show Sign In / User Menu"
+msgstr "Vis Logg på/bruker meny"
+
+#: includes/customize.php:139
+msgid "Sign In button text"
+msgstr "Tekst for påloggingsknapp"
+
+#: includes/customize.php:175
+msgid "Sign In Link"
+msgstr "Logg på kobling"
+
+#: includes/customize.php:178
+msgid "Where the Sign In button takes users to login."
+msgstr "Der Logg på-knappen tar brukere å logge inn."
+
+#: includes/customize.php:198
+msgid "User Menu"
+msgstr "Bruker meny"
+
+#: includes/customize.php:212
+msgid "User Menu Link Texts"
+msgstr "Bruker meny link tekster"
+
+#: includes/customize.php:214
+msgid "User Menu text links in order (Default Menu only)"
+msgstr "Bruker Menytekst koblinger i rekkefølge (bare standard meny)"
+
+#: includes/customize.php:273
+msgid "Hide primary menu on home page"
+msgstr "Skjul primær meny på startsiden"
+
+#: includes/customize.php:285
+msgid "Hide search"
+msgstr "Skjul søk"
+
+#: includes/customize.php:295
+msgid "Typography"
+msgstr "Typografi"
+
+#: includes/customize.php:296
+msgid ""
+"Customize your website fonts. <a href=\"https://fonts.google.com/\" target="
+"\"_blank\">Browse Fonts</a>"
+msgstr ""
+"Tilpass webområde skrifter. <a href=\"https://fonts.google.com/\" target="
+"\"_blank\">Bla gjennom skrifter</a>"
+
+#: includes/customize.php:308
+msgid "Disable Fonts"
+msgstr "Deaktiver skrifter"
+
+#: includes/customize.php:310
+msgid "Disable fonts from loading"
+msgstr "Deaktiver skrifter fra lasting"
+
+#: includes/customize.php:321
+msgid "Primary Font"
+msgstr "Primær skrift"
+
+#: includes/customize.php:323
+msgid "Main content font (body, p, a, ul, etc)"
+msgstr "Hovedinnhold skrift (Body, p, a, UL, etc)"
+
+#: includes/customize.php:335
+msgid "Headings Font"
+msgstr "Overskrifter: Skrift"
+
+#: includes/customize.php:337
+msgid "H1, H2, H3, H4, H5 and H6"
+msgstr "H1, H2, H3, H4, H5 og H6"
+
+#: includes/customize.php:346
+msgid "Home page slider customization."
+msgstr "Hjemmeside glidebryteren tilpasning."
+
+#: includes/customize.php:358
+msgid "Slide Speed"
+msgstr "Lysbildehastighet"
+
+#: includes/customize.php:360
+msgid "Change the home page featured slides speed"
+msgstr "Endre hjemmesiden inneholdt lysbilder hastighet"
+
+#: includes/customize.php:363
+msgid "Disable Automatic Sliding"
+msgstr "Arbeidsudyktig automatisk glidende"
+
+#: includes/customize.php:364
+msgid "1 Second"
+msgstr "1 andre"
+
+#: includes/customize.php:365
+msgid "1.5 Seconds"
+msgstr "1,5 sekunder"
+
+#: includes/customize.php:366
+msgid "2 Seconds"
+msgstr "2 sekunder"
+
+#: includes/customize.php:367 includes/customize.php:369
+msgid "3.5 Seconds"
+msgstr "3,5 sekunder"
+
+#: includes/customize.php:368
+msgid "3 Seconds"
+msgstr "3 sekunder"
+
+#: includes/customize.php:370
+msgid "4 Seconds"
+msgstr "4 sekunder"
+
+#: includes/customize.php:371
+msgid "4.5 Seconds"
+msgstr "4,5 sekunder"
+
+#: includes/customize.php:372
+msgid "5 Seconds"
+msgstr "5 sekunder"
+
+#: includes/customize.php:373
+msgid "5.5 Seconds"
+msgstr "5,5 sekunder"
+
+#: includes/customize.php:374
+msgid "6 Seconds"
+msgstr "6 sekunder"
+
+#: includes/customize.php:375
+msgid "6.5 Seconds"
+msgstr "6,5 sekunder"
+
+#: includes/customize.php:376
+msgid "7 Seconds"
+msgstr "7 sekunder"
+
+#: includes/customize.php:377
+msgid "7.5 Seconds"
+msgstr "7,5 sekunder"
+
+#: includes/customize.php:378
+msgid "8 Seconds"
+msgstr "8 sekunder"
+
+#: includes/customize.php:379
+msgid "8.5 Seconds"
+msgstr "8,5 sekunder"
+
+#: includes/customize.php:380
+msgid "9 Seconds"
+msgstr "9 sekunder"
+
+#: includes/customize.php:381
+msgid "9.5 Seconds"
+msgstr "9,5 sekunder"
+
+#: includes/customize.php:382
+msgid "10 Seconds"
+msgstr "10 sekunder"
+
+#: includes/customize.php:393
+msgid "Slide Gradient Overlay"
+msgstr "Skyv graderings overlegg"
+
+#: includes/customize.php:395
+msgid "Change the featured area slides overlay intensity"
+msgstr "Endre kjennetegnet området lysbilder overlegg intensitet"
+
+#: includes/customize.php:398
+msgid "No overlay"
+msgstr "Ingen"
+
+#: includes/customize.php:399
+msgid "0.1"
+msgstr "0,1"
+
+#: includes/customize.php:400
+msgid "0.2"
+msgstr "0,2"
+
+#: includes/customize.php:401
+msgid "0.3"
+msgstr "0,3"
+
+#: includes/customize.php:402
+msgid "0.4"
+msgstr "0,4"
+
+#: includes/customize.php:403
+msgid "0.5"
+msgstr "0,5"
+
+#: includes/customize.php:404
+msgid "0.6"
+msgstr "0,6"
+
+#: includes/customize.php:405
+msgid "0.7"
+msgstr "0,7"
+
+#: includes/customize.php:406
+msgid "0.8"
+msgstr "0,8"
+
+#: includes/customize.php:407
+msgid "0.9"
+msgstr "0,9"
+
+#: includes/customize.php:418
+msgid "Slide Content Blend"
+msgstr "Blanding av lysbildeinnhold"
+
+#: includes/customize.php:420
+msgid "Enable / Disable the content blend overlay at the bottom of slides."
+msgstr "Aktiver/deaktiver innholds blandings overlegget nederst på lysbildene."
+
+#: includes/customize.php:423
+msgid "Disabled"
+msgstr "Deaktivert"
+
+#: includes/customize.php:424 includes/customize.php:966
+msgid "Enabled"
+msgstr "Aktivert"
+
+#: includes/customize.php:431
+msgid "Video Sliders"
+msgstr "Video glidere"
+
+#: includes/customize.php:432
+msgid "Horizontal video navigation."
+msgstr "Horisontal video navigering."
+
+#: includes/customize.php:445
+msgid "Videos per slider"
+msgstr "Videoer per glidebryter"
+
+#: includes/customize.php:448
+msgid "How many videos to load in horizontal browsing sliders"
+msgstr "Hvor mange videoer å laste i horisontal surfing glidere"
+
+#: includes/customize.php:459
+msgid "Visible Thumbnails (Large Screens)"
+msgstr "Synlige miniatyrer (store skjermbilder)"
+
+#: includes/customize.php:466
+msgid "How many thumbnails are visible on large screens (1600px or more)"
+msgstr ""
+"Hvor mange miniatyrbilder som er synlige på store skjermer (1600px eller mer)"
+
+#: includes/customize.php:477 includes/customize.php:595
+msgid "Visible Thumbnails (Desktop)"
+msgstr "Synlige miniatyrer (stasjonær PC)"
+
+#: includes/customize.php:484
+msgid "How many thumbnails are visible on desktop screens (1200px - 1600px)"
+msgstr ""
+"Hvor mange miniatyrbilder som er synlige på skjermene på skrivebordet "
+"(1200px-1600px)"
+
+#: includes/customize.php:495 includes/customize.php:613
+msgid "Visible Thumbnails (Laptop)"
+msgstr "Synlige miniatyrer (bærbar)"
+
+#: includes/customize.php:502
+msgid "How many thumbnails are visible on laptop screens (960px - 1200px)"
+msgstr ""
+"Hvor mange miniatyrbilder som er synlige på skjermer på bærbare datamaskiner "
+"(960px-1200px)"
+
+#: includes/customize.php:513 includes/customize.php:631
+msgid "Visible Thumbnails (Tablet)"
+msgstr "Synlige miniatyrer (tavle)"
+
+#: includes/customize.php:520
+msgid "How many thumbnails are visible on tablet screens (600px - 960px)"
+msgstr ""
+"Hvor mange miniatyrbilder som er synlige på tavle-skjermene (600px-960px)"
+
+#: includes/customize.php:531 includes/customize.php:649
+msgid "Visible Thumbnails (Mobile)"
+msgstr "Synlige miniatyrer (mobil)"
+
+#: includes/customize.php:538
+msgid "How many thumbnails are visible on mobile screens (600px or smaller)"
+msgstr ""
+"Hvor mange miniatyrbilder som er synlige på mobilskjermer (600px eller "
+"mindre)"
+
+#: includes/customize.php:545
+msgid "Video Browsing"
+msgstr "Video småleser"
+
+#: includes/customize.php:546
+msgid "Default video browsing pages settings"
+msgstr "Innstillinger for standard video lesings sider"
+
+#: includes/customize.php:559
+msgid "Browsing Layout"
+msgstr "Leser oppsett"
+
+#: includes/customize.php:562
+msgid "Grid"
+msgstr "Rutemønster"
+
+#: includes/customize.php:563
+msgid "Sliders"
+msgstr "Sliders"
+
+#: includes/customize.php:566
+msgid "Video browsing pages layout."
+msgstr "Video småleser sider layout."
+
+#: includes/customize.php:577
+msgid "Visible Thumbnails (Large)"
+msgstr "Synlige miniatyrer (store)"
+
+#: includes/customize.php:584
+msgid "How many thumbnails per row on large screens (1600px or larger)"
+msgstr ""
+"Hvor mange miniatyrbilder per rad på store skjermer (1600px eller større)"
+
+#: includes/customize.php:602
+msgid "How many thumbnails per row on desktop screens (1200px - 1600px)"
+msgstr ""
+"Hvor mange miniatyrbilder per rad på skjermene på skrivebordet "
+"(1200px-1600px)"
+
+#: includes/customize.php:620
+msgid "How many thumbnails per row on laptop screens (960px - 1200px)"
+msgstr ""
+"Hvor mange miniatyrbilder per rad på skjermer på bærbare datamaskiner "
+"(960px-1200px)"
+
+#: includes/customize.php:638
+msgid "How many thumbnails per row on tablet screens (600px - 960px)"
+msgstr "Hvor mange miniatyrer per rad på tavle-skjermer (600px-960px)"
+
+#: includes/customize.php:656
+msgid "How many thumbnails per row on mobile screens (600px or smaller)"
+msgstr ""
+"Hvor mange miniatyrbilder per rad på mobilskjermer (600px eller mindre)"
+
+#: includes/customize.php:667
+msgid "Drop Down Video Details"
+msgstr "Drop down video detaljer"
+
+#: includes/customize.php:670
+msgid "Display video details below video slides and rows."
+msgstr "Vis video detaljer under video lysbilder og-rader."
+
+#: includes/customize.php:680
+msgid "Video Thumbnail Hover Effect"
+msgstr "Video thumbnail hover effekt"
+
+#: includes/customize.php:683
+msgid "Expand video thumbnails on hover. <em>(Larger screen sizes only)</em>"
+msgstr ""
+"Utfolde video thumbnails opp på hover. <em>(Bare større skjermstørrelser)</"
+"em>"
+
+#: includes/customize.php:694
+msgid "Video thumbnail style"
+msgstr "Miniatyrbilde stil for video"
+
+#: includes/customize.php:697
+msgid "Landscape (640px by 360px)"
+msgstr "Liggende (640px av 360px)"
+
+#: includes/customize.php:698
+msgid "Portrait (380px by 590px)"
+msgstr "Portrett (380px av 590px)"
+
+#: includes/customize.php:699
+msgid "Custom Size"
+msgstr "Egendefinert Størrelse"
+
+#: includes/customize.php:702
+msgid ""
+"Video thumbnail image style. If you use a <strong>Custom Size</strong>, any "
+"time you change your custom width or height, you will need to <a href="
+"\"https://wordpress.org/plugins/regenerate-thumbnails/\" target=\"_blank"
+"\">regenerate your thumbnail images</a>."
+msgstr ""
+"Bildestil for video miniatyr. Hvis du bruker en <strong>egendefinert "
+"størrelse</strong>, må du <a href=\"https://wordpress.org/plugins/regenerate-"
+"thumbnails/\" target=\"_blank\">generere miniatyrbildene</a>hver gang du "
+"endrer den egendefinerte bredden eller høyden."
+
+#: includes/customize.php:717
+msgid "Custom thumbnail size width"
+msgstr "Egendefinert miniatyr størrelses bredde"
+
+#: includes/customize.php:733
+msgid "Custom thumbnail size height"
+msgstr "Egendefinert høyde på miniatyrstørrelse"
+
+#: includes/customize.php:744
+msgid "Mobile Device Display"
+msgstr "Visning av mobil enhet"
+
+#: includes/customize.php:747
+msgid "Always show titles and arrows on mobile devices."
+msgstr "Vis alltid titler og piler på mobile enheter."
+
+#: includes/customize.php:757
+msgid "Enable"
+msgstr "Aktiver betalinger med kredittkort"
+
+#: includes/customize.php:757
+msgid "Profiles"
+msgstr "Profiler"
+
+#: includes/customize.php:760
+msgid "Display profile photos and details."
+msgstr "Vis profilbilder og-detaljer."
+
+#: includes/customize.php:766
+msgid "Video Page Settings"
+msgstr "Innstillinger for video side"
+
+#: includes/customize.php:767
+msgid "Default video page settings"
+msgstr "Standardinnstillinger for video side"
+
+#: includes/customize.php:780
+msgid "Layout"
+msgstr "Layout"
+
+#: includes/customize.php:783 includes/customize.php:896
+#: includes/customize.php:1083
+msgid "Standard"
+msgstr "Standard"
+
+#: includes/customize.php:784
+msgid "Netflix"
+msgstr "Netflix"
+
+#: includes/customize.php:785 includes/theme-social-settings.php:57
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/customize.php:788
+msgid "Default video page layout."
+msgstr "Standard video sideoppsett."
+
+#: includes/customize.php:798
+msgid "Show Related Videos"
+msgstr "Vis beslektede videoer"
+
+#: includes/customize.php:801
+msgid "Display related videos below Netflix layout."
+msgstr "Vis relaterte videoer under Netflix layout."
+
+#: includes/customize.php:812
+msgid "# of Related videos"
+msgstr "# av relaterte videoer"
+
+#: includes/customize.php:815
+msgid "The number of related videos to display."
+msgstr "Antall relaterte videoer som skal vises."
+
+#: includes/customize.php:825 includes/customize.php:1198
+msgid "Show Recently Added Videos"
+msgstr "Vis nylig tillagte videoer"
+
+#: includes/customize.php:828
+msgid "Display recently added videos below Netflix layout."
+msgstr "Vis nylig tillagte videoer under Netflix-layouten."
+
+#: includes/customize.php:839
+msgid "# of Recently added videos"
+msgstr "Antall nylig tillagte videoer"
+
+#: includes/customize.php:842
+msgid "The number of recently added videos to display."
+msgstr "Antall nylig tillagte videoer som skal vises."
+
+#: includes/customize.php:853
+msgid "Enable shifting video background"
+msgstr "Aktiver skiftende video bakgrunn"
+
+#: includes/customize.php:856
+msgid ""
+"When the screen size is smaller than the video featured image, the image "
+"will slowly pan across the screen. (Preview on mobile device below)"
+msgstr ""
+"Når skjermstørrelsen er mindre enn video kjennetegnet bildet, vil bildet "
+"langsomt panorere over skjermen. (Forhåndsvisning på mobilenhet nedenfor)"
+
+#: includes/customize.php:866
+msgid "Full Screen Video"
+msgstr "Full skjerm video"
+
+#: includes/customize.php:869
+msgid ""
+"Video players are full width of the screen when played. (Netflix video "
+"layout only)"
+msgstr ""
+"Video-spillere er full bredde på skjermen når de spilles. (Bare Netflix "
+"videooppsett)"
+
+#: includes/customize.php:879
+msgid "Open In Full Screen"
+msgstr "Åpne i full skjerm"
+
+#: includes/customize.php:882
+msgid ""
+"Open videos in full screen on when thumbnail is pressed. (Netflix video "
+"layout only)"
+msgstr ""
+"Åpne videoer i fullskjermmodus når du trykker på miniatyrbildet. (Bare "
+"Netflix videooppsett)"
+
+#: includes/customize.php:893
+msgid "Video Access Style"
+msgstr "Stil for video tilgang"
+
+#: includes/customize.php:897
+msgid "Full Screen"
+msgstr "Fullskjerm"
+
+#: includes/customize.php:900
+msgid ""
+"(<a href=\"https://www.wpvideosubscriptions.com/video-memberships/\" target="
+"\"_blank\">WP Video Memberships</a> only) How the video page displays for "
+"users without access. If you are using the Netflix layout above, we "
+"recommend using Standard for this."
+msgstr ""
+"(<a href=\"https://www.wpvideosubscriptions.com/video-memberships/\" target="
+"\"_blank\">WP video medlemskap</a> Only) Hvordan video siden vises for "
+"brukere uten tilgang. Hvis du bruker Netflix-layouten ovenfor, anbefaler vi "
+"at du bruker standard for dette."
+
+#: includes/customize.php:906
+msgid "Video Reviews"
+msgstr "Video anmeldelser"
+
+#: includes/customize.php:907
+msgid "Video reviews and ratings. (Reviews use default WordPress comments)"
+msgstr ""
+"Video anmeldelser og rangeringer. (Kritikken Bruk standard WordPress "
+"kommentarer)"
+
+#: includes/customize.php:919
+msgid "Enable 5 Star Ratings"
+msgstr "Aktiver 5-stjerners rangeringer"
+
+#: includes/customize.php:922
+msgid "Enable / Disable 5 star ratings for videos."
+msgstr "Aktiver/deaktiver 5-stjerners rangeringer for videoer."
+
+#: includes/customize.php:932
+msgid "Star Ratings Color"
+msgstr "Farge på stjerneklassifiseringer"
+
+#: includes/customize.php:944
+msgid "Display Review Author"
+msgstr "Vis gjennomgang forfatter"
+
+#: includes/customize.php:947
+msgid "Show / Hide review authors photo and username"
+msgstr "Vis/Skjul gjennomgang forfattere foto og brukernavn"
+
+#: includes/customize.php:954
+msgid "My List settings"
+msgstr "Innstillinger for min liste"
+
+#: includes/customize.php:969
+msgid ""
+"Turn on / off the My List feature. Allows users to save videos to their list."
+msgstr ""
+"Slå på/av min liste-funksjonen. Gjør det mulig for brukere å lagre videoer i "
+"listen."
+
+#: includes/customize.php:985
+msgid "My List Page"
+msgstr "Min liste-siden"
+
+#: includes/customize.php:988
+msgid ""
+"The page that users My List videos will display. <em>Include "
+"<strong>[rvs_user_my_list]</strong> shortcode on page</em>"
+msgstr ""
+"Siden som brukerne mine liste videoer vil vise. <em>Inkludere "
+"<strong>[rvs_user_my_list]</strong> mangel opp på side</em>"
+
+#: includes/customize.php:996
+msgid "Buttons"
+msgstr "Knapper"
+
+#: includes/customize.php:997
+msgid ""
+"Buttons Settings: For more customization, use the <a href=\"/wp-admin/"
+"customize.php?autofocus[section]=advanced_custom\">Advanced</a> area."
+msgstr ""
+"Knapper innstillinger: Bruk <a href=\"/wp-admin/customize.php?"
+"autofocus[section]=advanced_custom\">Avansert</a> -området for mer "
+"tilpassing."
+
+#: includes/customize.php:1010
+msgid "Button Style"
+msgstr "Knappestil"
+
+#: includes/customize.php:1013
+msgid "Solid"
+msgstr "Heltrukket"
+
+#: includes/customize.php:1014
+msgid "Hollow"
+msgstr "Hul"
+
+#: includes/customize.php:1017
+msgid "Changes the appearance of buttons."
+msgstr "Endrer utseendet på knapper."
+
+#: includes/customize.php:1030
+msgid "5px"
+msgstr "5px"
+
+#: includes/customize.php:1033
+msgid "Button Border Radius"
+msgstr "Knappe kantlinje-radius"
+
+#: includes/customize.php:1034
+msgid "Change the border radius of buttons"
+msgstr "Endre kantlinjens radius for knapper"
+
+#: includes/customize.php:1047
+msgid "6px"
+msgstr "6px"
+
+#: includes/customize.php:1050
+msgid "Button Padding (Top/Bottom)"
+msgstr "Knappe utfylling (topp/bunn)"
+
+#: includes/customize.php:1051
+msgid "Change the top and bottom padding of buttons"
+msgstr "Endre øvre og nedre utfylling av knapper"
+
+#: includes/customize.php:1064
+msgid "12px"
+msgstr "12px"
+
+#: includes/customize.php:1067
+msgid "Button Padding (Left/Right)"
+msgstr "Knappe utfylling (venstre/høyre)"
+
+#: includes/customize.php:1068
+msgid "Change the left and right padding of buttons"
+msgstr "Endre venstre og høyre utfylling av knapper"
+
+#: includes/customize.php:1079
+msgid "Play Buttons"
+msgstr "Spill av-knapper"
+
+#: includes/customize.php:1082
+msgid "Large Play Icon"
+msgstr "Stort avspillings ikon"
+
+#: includes/customize.php:1086
+msgid "Displays on Netflix video pages and the drop down browsing section."
+msgstr "Viser på Netflix video sider og drop down surfing delen."
+
+#: includes/customize.php:1096
+msgid "Button text for drop down video details"
+msgstr "Knappetekst for rullegardin video detaljer"
+
+#: includes/customize.php:1105
+msgid "Login Page"
+msgstr "Påloggingssiden"
+
+#: includes/customize.php:1106
+msgid "Customize your themes Login page"
+msgstr "Tilpass temaer påloggingssiden"
+
+#: includes/customize.php:1117
+msgid "Background Image"
+msgstr "Bakgrunnsbilde"
+
+#: includes/customize.php:1130
+msgid "Hide Register Link"
+msgstr "Skjul Registrer kobling"
+
+#: includes/customize.php:1138
+msgid "Advanced"
+msgstr "Avansert"
+
+#: includes/customize.php:1139
+msgid "Add custom CSS and JS."
+msgstr "Legg til egendefinert CSS og JS."
+
+#: includes/customize.php:1151
+msgid "Load Theme Gutenberg CSS"
+msgstr "Last Theme Gutenberg CSS"
+
+#: includes/customize.php:1173
+msgid "Custom Theme CSS"
+msgstr "Tilpasset Theme CSS"
+
+#: includes/customize.php:1175
+msgid "Do not include \"style\" tags."
+msgstr "Ikke ta med \"stil\"-koder."
+
+#: includes/customize.php:1182
+msgid "Custom Theme JS"
+msgstr "Tilpasset Theme JS"
+
+#: includes/customize.php:1184
+msgid "Do not include \"script\" tags."
+msgstr "Ikke ta med \"skript\"-koder."
+
+#: includes/review-functions.php:16
+msgid "Rating"
+msgstr "Vurdering"
+
+#: includes/review-functions.php:20
+msgid "Please select a rating"
+msgstr "Vennligst velg en vurdering"
+
+#: includes/scripts.php:331
+msgid "Adding"
+msgstr "Legger til"
+
+#: includes/scripts.php:331
+msgid "Removing"
+msgstr "Fjerner"
+
+#: includes/scripts.php:331
+msgid "You must be logged in."
+msgstr "Du må være logget inn."
+
+#: includes/shortcodes.php:230
+msgid "Shortcode"
+msgstr "Kortkode"
+
+#: includes/shortcodes.php:266 includes/shortcodes.php:315
+#: includes/shortcodes.php:366
+msgid "hours left"
+msgstr "timer igjen"
+
+#: includes/shortcodes.php:281
+msgid "You have not rented any videos"
+msgstr "Du har ikke tegnet abonnement"
+
+#: includes/shortcodes.php:282 includes/shortcodes.php:332
+#: includes/shortcodes.php:388
+msgid "Browse videos"
+msgstr "Bla gjennom videoer"
+
+#: includes/shortcodes.php:331
+msgid "You have not purchased any videos"
+msgstr "Du har ikke tegnet abonnement"
+
+#: includes/shortcodes.php:387
+msgid "You have not added any videos to your list."
+msgstr "Du har ikke lagt til noen videoer i listen."
+
+#: includes/shortcodes.php:391
+msgid "The site administrator has disabled the My List feature."
+msgstr "Områdeadministratoren har deaktivert funksjonen min liste."
+
+#: includes/theme-google-tracking.php:28
+msgid "Site Verification (Meta Tag)"
+msgstr "Site verifikasjon (meta tag)"
+
+#: includes/theme-google-tracking.php:31
+msgid "Meta tag"
+msgstr "Metakoden"
+
+#: includes/theme-google-tracking.php:31
+msgid "Paste the content section of the meta tag only"
+msgstr "Lim innholdet delen av metakoden bare"
+
+#: includes/theme-google-tracking.php:31
+msgid "meta name=\"google-site-verification\" content=\""
+msgstr "meta name = \"Google-nettsted-verifisering\" content = \""
+
+#: includes/theme-google-tracking.php:31
+msgid "PASTE PART THIS ONLY"
+msgstr "LIM DEL BARE DENNE"
+
+#: includes/theme-google-tracking.php:35
+msgid "Google Analytics ID"
+msgstr "Din Google Analytics ID"
+
+#: includes/theme-google-tracking.php:40
+msgid "Google Tag Manager ID"
+msgstr "ID for Google tag Manager"
+
+#: includes/theme-google-tracking.php:45
+msgid "Cookie Notice Integration"
+msgstr "Integrering av informasjonskapsel varsel"
+
+#: includes/theme-google-tracking.php:48
+#, php-format
+msgid "If you are using the %s plugin, this we recommend enabling this option"
+msgstr ""
+"Hvis du bruker plugin-modulen %s, anbefaler vi at du aktiverer dette "
+"alternativet"
+
+#: includes/theme-settings.php:8
+msgid "Use the WordPress Customizer to change theme styling."
+msgstr "Bruk WordPress systemtilpasser å endre tema styling."
+
+#: includes/theme-settings.php:9
+msgid ""
+"Options for <strong>Single Video Pages</strong>, <strong>Video Browsing "
+"Pages</strong>, <strong>Horizontal Sliders</strong>, etc. can be found in "
+"the WordPress Customizer."
+msgstr ""
+"Alternativer for <strong>single video sider</strong>, <strong>video Browsing "
+"sider</strong>, <strong>horisontale glidere</strong>, etc. finnes i "
+"WordPress Systemtilpasser."
+
+#: includes/theme-settings.php:10
+msgid "Customize My Theme"
+msgstr "Tilpass mitt tema"
+
+#: includes/theme-shortcodes.php:7
+msgid "WPVS Theme Shortcodes"
+msgstr "WPVS Theme koder"
+
+#: includes/theme-shortcodes.php:14
+msgid "Optional Settings"
+msgstr "Valgfrie innstillinger"
+
+#: includes/theme-shortcodes.php:53
+msgid "My Genres Shortcodes"
+msgstr "Min sjangere koder"
+
+#: includes/theme-social-settings.php:41
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/theme-social-settings.php:45
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/theme-social-settings.php:49
+msgid "Google+"
+msgstr "Google/søke Pay"
+
+#: includes/theme-social-settings.php:53
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/theme-social-settings.php:61
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/theme-social-settings.php:65
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/theme-widgets.php:7
+msgid "Social Accounts"
+msgstr "Sosiale kontoer"
+
+#: includes/theme-widgets.php:8
+msgid "Displays social media accounts."
+msgstr "Viser kontoer på sosiale medier."
+
+#: includes/theme-widgets.php:22
+msgid "Connect with us"
+msgstr "Kontakt oss"
+
+#: includes/theme-widgets.php:25
+msgid "Title"
+msgstr "Tittel"
+
+#: includes/theme-widgets.php:28
+msgid "Displays social media accounts. Add social accounts"
+msgstr "Viser kontoer på sosiale medier. Legg til sosiale kontoer"
+
+#: includes/theme-widgets.php:30
+msgid "here"
+msgstr "her"
+
+#: includes/walkers.php:82
+msgid "Your comment is awaiting moderation"
+msgstr "Din kommentar avventer moderasjon"
+
+#: includes/walkers.php:174
+msgid "Your review is awaiting moderation"
+msgstr "Din vurdering venter på moderering"
+
+#: searchform.php:3
+msgid "Enter Search"
+msgstr "Angi søk"
+
+#: searchform.php:5
+msgid "Search"
+msgstr "Søk"
+
+#: side-bar-content.php:20
+msgid "Read More"
+msgstr "Les mer"
+
+#: single-rvs_video.php:52
+msgid "Download"
+msgstr "Last ned"
+
+#: single-rvs_video.php:124
+msgid "This content is for members only"
+msgstr "Dette innholdet er kun for medlemmer"
+
+#: template/browse-show-sliders.php:29 template/browse-sliders.php:28
+#: template/rvs-show-taxonomy.php:25 template/rvs-video-taxonomy.php:30
+msgid "Browse"
+msgstr "Bla gjennom"
+
+#: template/default-home.php:35
+msgid "Continue Watching"
+msgstr "Fortsett å se på"
+
+#: template/default-home.php:93 template/related-videos.php:113
+msgid "Recently Added"
+msgstr "Siste"
+
+#: template/full-screen-access.php:16
+msgid "Remember Me"
+msgstr "Husk meg"
+
+#: template/full-screen-access.php:17
+msgid "Log In"
+msgstr "Logg inn"
+
+#: template/full-screen-access.php:25
+msgid "Sign In"
+msgstr "Logg inn"
+
+#: template/full-screen-access.php:26
+msgid "Create Account"
+msgstr "Opprett konto"
+
+#: template/full-screen-access.php:32
+msgid "Forgot Password"
+msgstr "Glemt passord"
+
+#. translators: %s: post title
+#: template/reviews.php:31
+#, php-format
+msgctxt "reviews title"
+msgid "One review on &ldquo;%s&rdquo;"
+msgstr "En gjennomgang på %s"
+
+#: template/reviews.php:36
+#, php-format
+msgctxt "reviews title"
+msgid "%1$s review on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s reviews on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s gjennomgang på%2$s"
+msgstr[1] "%1$s anmeldelser på%2$s"
+
+#: template/reviews.php:78
+msgid "Reviews are closed."
+msgstr "Vurderingene er stengt."
+
+#: template/reviews.php:85
+msgid "Leave Review"
+msgstr "Legg igjen anmeldelse"
+
+#: template/reviews.php:89
+msgid "Add Review"
+msgstr "Legg til en omtale"
+
+#: template/reviews.php:91
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to add a review."
+msgstr "Du må være <a href=\"%s\">innlogget</a> for å legge til en anmeldelse."
+
+#: template/reviews.php:94
+msgid "You have already submitted a review for this video"
+msgstr "Du har allerede sendt en omtale for denne videoen"
+
+#: template/rvs-profile-taxonomy.php:33
+msgid "More Details"
+msgstr "Flere detaljer"
+
+#: template/single-video-netflix.php:24 template/single-video-standard.php:10
+#: template/single-video-youtube.php:12
+#, php-format
+msgid "starts in <span id=\"wpvs-autoplay-count\">%d</span> seconds"
+msgstr "starter om <span id=\"wpvs-autoplay-count\">% d</span> sekunder"
+
+#: template/single-video-netflix.php:80
+msgid "Play"
+msgstr "Spill av"
+
+#: template/single-video-netflix.php:84
+msgid "Resume"
+msgstr "Fortsett"
+
+#: template/single-video-netflix.php:91
+msgid "Trailer"
+msgstr "Henger"
+
+#: template/vs-search.php:11
+msgid "Searching videos"
+msgstr "Søke i videoer"
+
+#: template/vs-search.php:35
+msgid "Browse by Keyword"
+msgstr "Bla etter nøkkelord"
+
+#: updates/Puc/v4p4/Plugin/Ui.php:54
+msgid "View details"
+msgstr "Vis detaljer"
+
+#: updates/Puc/v4p4/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr "Mer informasjon om %s"
+
+#: updates/Puc/v4p4/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr "Se etter oppdateringer"
+
+#: updates/Puc/v4p4/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "Plugin-modulen %s er oppdatert."
+
+#: updates/Puc/v4p4/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "En ny versjon av %s-plugin-modulen er tilgjengelig."
+
+#: updates/Puc/v4p4/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr "Kan ikke avgjøre om oppdateringer er tilgjengelige for %s."
+
+#: updates/Puc/v4p4/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Ukjent oppdaterings kontrollør status \"%s\""
+
+#: updates/Puc/v4p4/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr "Ingen endringslog tilgjengelig."
+
+#: updates/version-checks.php:12
+msgid "IMPORTANT: WP Video Memberships needs an update. Please <a href=\""
+msgstr ""
+"VIKTIG: WP video medlemskap trenger en oppdatering. Vennligst < a href = \""
+
+#. Theme Name of the plugin/theme
+msgid "WPVS Theme"
+msgstr "WPVS Theme"
+
+#. Description of the plugin/theme
+msgid ""
+"A Netflix style theme for the WP Videos plugin and WP Video Memberships add-"
+"on."
+msgstr ""
+"En Netflix stil tema for WP videoer plugin og WP video medlemskap add-on."
+
+#. Author of the plugin/theme
+msgid "Rogue Web Design"
+msgstr "Rogue Web design"
+
+#. Author URI of the plugin/theme
+msgid "https://roguewebdesign.ca"
+msgstr "https://roguewebdesign.ca"
+
+#. Template Name of the plugin/theme
+msgid "Full Width No Title */"
+msgstr "Full bredde ingen tittel */"
+
+#. Template Name of the plugin/theme
+msgid "Membership Pages */"
+msgstr "Medlemskap Pages */"
+
+#. Template Name of the plugin/theme
+msgid "Full Width */"
+msgstr "Full bredde */"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Stretched */"
+msgstr "Full bredde strukket */"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder (plugin builders) */"
+msgstr "Side Builder (plugin utbyggere) */"

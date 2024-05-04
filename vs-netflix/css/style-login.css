@@ -1,0 +1,32 @@
+.wp-core-ui .button-primary {
+    display: inline-block;
+    padding: 6px 12px !important;
+    height: auto !important;
+    margin: 1em 0;
+    text-align: center;
+    border-radius: 0;
+    color: #ffffff;
+    cursor: pointer;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    font-size: 20px;
+    text-shadow: none;
+    box-shadow: none;
+}
+.wp-core-ui .button-primary:hover, .wp-core-ui .button-primary:active, .wp-core-ui .button-primary:focus {
+    color: #fff;
+    box-shadow: none !important;
+}
+
+
+.login #login_error, .login .message {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+
+input[type="text"], input[type="email"], input[type="password"] {
+    box-shadow: none !important;
+    outline: none !important;
+}

@@ -1,0 +1,104 @@
+.net-radio-none {
+   display:none !important;
+}
+
+label.thumbnail-select {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px 20px 10px 0;
+}
+
+label.thumbnail-select img {
+    border: 2px solid #fff;
+    opacity: 0.5;
+}
+
+label.thumbnail-select img:hover {
+    opacity: 0.8;
+}
+
+label.thumbnail-select img.set-active {
+    border: 2px solid #0073aa;
+    opacity: 1;
+}
+
+tr.rvs-sub-option th {
+   padding: 0 0 20px 0;
+}
+
+tr.rvs-sub-option td {
+   padding: 0 10px 20px 10px;
+}
+
+tr.rvs-sub-option label {
+    margin-left: 10px;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.vs-shortcode {
+    margin: 20px auto;
+    border-bottom: 1px solid #eee;
+}
+
+.vs-shortcode ul {
+    padding: 20px 20px 20px 30px;
+}
+
+.vs-shortcode ul li {
+    list-style: disc;
+}
+
+input.vs-shortcode-example {
+    display: block;
+    font-size: 1.5em;
+    margin: 30px 0 35px;
+    max-width: 100%;
+    width: 500px;
+}
+
+.vs-shortcode-option {
+    margin: 10px 20px;
+    overflow: hidden;
+}
+.vs-shortcode-option input.vs-shortcode-example {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+span.vs-editable {
+    color: #2ecc71;
+}
+
+span.vs-not-editable {
+    color: #e74c3c;
+}
+
+#wpvs-theme-customize-button {
+    font-size: 24px;
+    margin-top: 25px;
+}
+
+.wpvs-select-featured-type {
+    display: none;
+}
+
+.wpvs-select-featured-type.wpvs-show-featured-select {
+    display: block;
+}
+
+.wpvs-thumbnail-image-container {
+    margin: 0 0 10px;
+    max-width: 400px;
+}
+
+.wpvs-thumbnail-image-container img {
+    max-width: 100%;
+}
+
+@media screen and (min-width: 520px) {
+
+.form-table th {
+    width: 300px;
+}
+}

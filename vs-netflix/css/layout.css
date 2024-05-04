@@ -1,0 +1,161 @@
+/* ==== ALIGNMENT ==== */
+
+.text-align-center {
+    text-align: center;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.row {
+    width: 100%;
+    overflow: hidden;
+    clear: both;
+    margin: 0 auto;
+}
+.container {
+    max-width: 1200px;
+}
+.wide-container {
+    max-width: 1600px;
+}
+.col-12 {
+    width: 100%;
+    padding: 0 4%;
+    overflow: hidden;
+    margin: 0 auto;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+.vs-container {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ==== HEADINGS ==== */
+
+h1 {
+    font-size: calc(1.6em + 0.8vw);
+    font-size: -webkit-calc(1.6em + 0.8vw);
+    font-size: -moz-calc(1.6em + 0.8vw);
+}
+
+h2 {
+    font-size: calc(1.2em + 0.8vw);
+    font-size: -webkit-calc(1.2em + 0.8vw);
+    font-size: -moz-calc(1.2em + 0.8vw);
+}
+
+h3 {
+    font-size: calc(1em + 0.8vw);
+    font-size: -webkit-calc(1em + 0.8vw);
+    font-size: -moz-calc(1em + 0.8vw);
+}
+
+h4 {
+    font-size: calc(0.8em + 0.8vw);
+    font-size: -webkit-calc(0.8em + 0.8vw);
+    font-size: -moz-calc(0.8em + 0.8vw);
+}
+
+h5 {
+    font-size: calc(0.6em + 0.8vw);
+    font-size: -webkit-calc(0.6em + 0.8vw);
+    font-size: -moz-calc(0.6em + 0.8vw);
+}
+
+h6 {
+    font-size: calc(0.4em + 0.8vw);
+    font-size: -webkit-calc(0.4em + 0.8vw);
+    font-size: -moz-calc(0.4em + 0.8vw);
+}
+
+.no-margin-title {
+    margin: 0 0 0.7em;
+}
+
+/* ==== COMMENTS ==== */
+
+.comment-content {
+    margin-top: 10px;
+}
+
+.comment {
+    margin-bottom: 1em;
+    clear: both;
+}
+
+.comment .vcard img {
+    margin: 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.comment p {
+    box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    padding: 0.75em;
+    margin: 0;
+}
+
+.wpvs-user-video-rating {
+    padding: 0 0.75em;
+}
+
+.comment .comment-meta {
+    font-size: 0.8em;
+    text-align: right;
+    margin-top: 5px;
+}
+
+.comment-list {
+    margin: 20px 0 0;
+}
+
+form.comment-form label {
+    display: block;
+    margin-bottom: 3px;
+}
+
+form.comment-form .comment-form-cookies-consent label {
+    display: inline-block;
+    margin: 0 0 0 10px;
+    font-size: 14px;
+    vertical-align: middle;
+}
+
+input[type="text"], input[type="email"], input[type="password"], input[type="tel"], input[type="url"], input[type="number"], textarea, form.comment-form input[type="text"], form.comment-form input[type="email"], form.comment-form input[type="password"], form.comment-form textarea, select {
+    -webkit-appearance: none;
+    padding: 8px 5px;
+    outline: none;
+    margin: 10px 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    border-radius: 4px;
+}
+#respond {
+    clear: both;
+}
+
+/* ==== Tables ==== */
+
+table {
+    margin: 15px 0;
+}
+
+th, td {
+    padding: 15px;
+}
+
+/* ==== FRONT END ADMIN ==== */
+
+.vs-note {
+    font-size: 12px;
+    display: block;
+}

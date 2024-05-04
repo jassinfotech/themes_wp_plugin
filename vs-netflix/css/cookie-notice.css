@@ -1,0 +1,37 @@
+.wpvs-cookie-notice {
+    text-align: center;
+    font-size: 14px;
+}
+
+.cookie-notice-container {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+#cookie-notice .cookie-notice-container .button {
+    font-size: 16px;
+}
+
+#cn-notice-text {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    display: block;
+    font-size: 16px;
+    margin: 10px auto 0;
+}
+
+.footer-cookie-settings {
+    text-align: center;
+    overflow: hidden;
+    clear: both;
+}
+
+.footer-cookie-settings .button {
+    padding: 3px;
+    margin: 0;
+    background: none;
+    color: inherit;
+    font-size: 14px;
+}

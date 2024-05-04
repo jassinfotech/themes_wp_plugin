@@ -1,0 +1,1066 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SKRN Progression\n"
+"POT-Creation-Date: 2019-11-11 07:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"Language: "
+
+#: header.php:54 inc/template-tags.php:148
+msgid "Menu"
+msgstr ""
+
+#: taxonomy-video-director.php:22
+msgid "Director: "
+msgstr ""
+
+#: comments.php:32
+#, php-format
+msgid "One comment on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:48 comments.php:71
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:51 comments.php:74
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:52 comments.php:75
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:88
+msgid "Comments are closed."
+msgstr ""
+
+#: 404.php:26
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:27
+msgid "404 Page Error"
+msgstr ""
+
+#: 404.php:37
+msgid ""
+"Sorry, We couldn&rsquo;t find the page you&rsquo;re looking for. Maybe Try "
+"one of the links in the navigation or a search."
+msgstr ""
+
+#: index.php:37 single.php:34
+msgid "Latest News"
+msgstr ""
+
+#: functions.php:60
+msgid "Dashboard Menu"
+msgstr ""
+
+#: functions.php:61
+msgid "Tablet/Mobile Primary Menu"
+msgstr ""
+
+#: functions.php:62
+msgid "Landing Page Menu"
+msgstr ""
+
+#: functions.php:63
+msgid "Additional Profile Menu Items"
+msgstr ""
+
+#: functions.php:90
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:91
+msgid "Default sidebar"
+msgstr ""
+
+#: functions.php:140
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:152
+msgid "Demo Content Import"
+msgstr ""
+
+#: archive-video_skrn.php:17
+msgid "Videos "
+msgstr ""
+
+#: archive-video_skrn.php:142
+msgid "Videos Found"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search for: %s"
+msgstr ""
+
+#: author.php:102
+msgid "User Stats"
+msgstr ""
+
+#: author.php:104 author.php:152 author.php:201 author.php:250
+msgid "Favorites"
+msgstr ""
+
+#: author.php:105 author.php:151 author.php:200 author.php:249
+#: inc/video-watchlist.php:31
+msgid "Watchlist"
+msgstr ""
+
+#: author.php:106
+msgid "Ratings"
+msgstr ""
+
+#: author.php:118
+msgid "Member Since"
+msgstr ""
+
+#: author.php:128
+msgid "Biography"
+msgstr ""
+
+#: author.php:153 author.php:202 author.php:251
+msgid "Reviews"
+msgstr ""
+
+#: author.php:193
+msgid "No videos in watchlist"
+msgstr ""
+
+#: author.php:242
+msgid "No videos in favorites"
+msgstr ""
+
+#: author.php:295 inc/template-tags.php:265 inc/template-tags.php:355
+msgid "Contains Spoiler"
+msgstr ""
+
+#: author.php:303
+msgid "No reviewed videos"
+msgstr ""
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Enter a keyword to search..."
+msgstr ""
+
+#: searchform.php:13
+msgid "Submit"
+msgstr ""
+
+#: single-video_skrn.php:43 single-video_skrn.php:281
+msgid "Genre"
+msgstr ""
+
+#: single-video_skrn.php:61 single-video_skrn.php:299
+msgid "Release Date"
+msgstr ""
+
+#: single-video_skrn.php:73 single-video_skrn.php:311
+msgid "Duration"
+msgstr ""
+
+#: single-video_skrn.php:85 single-video_skrn.php:323
+msgid "Director"
+msgstr ""
+
+#: single-video_skrn.php:115
+msgid "Social Share..."
+msgstr ""
+
+#: single-video_skrn.php:116
+msgid "Write A Review"
+msgstr ""
+
+#: single-video_skrn.php:157
+msgid "You Rated"
+msgstr ""
+
+#: single-video_skrn.php:169
+msgid "Rate"
+msgstr ""
+
+#: single-video_skrn.php:189
+msgid "Please "
+msgstr ""
+
+#: single-video_skrn.php:190
+msgid "Log in"
+msgstr ""
+
+#: single-video_skrn.php:192
+msgid " to rate & review"
+msgstr ""
+
+#: single-video_skrn.php:193
+msgid "Please Log in to rate & review"
+msgstr ""
+
+#: single-video_skrn.php:212
+msgid "User Rating"
+msgstr ""
+
+#: header/mobile-navigation.php:17 header/mobile-navigation-landing.php:15
+#: header/profile-menu.php:30 inc/template-tags.php:141
+msgid "Log In"
+msgstr ""
+
+#: header/mobile-navigation.php:39 header/search-header.php:16
+msgid "Search for Movies or TV Series"
+msgstr ""
+
+#: header/mobile-navigation.php:50 header/search-header.php:27
+msgid "Type:"
+msgstr ""
+
+#: header/mobile-navigation.php:73 header/search-header.php:53
+msgid "Genre:"
+msgstr ""
+
+#: header/mobile-navigation.php:75 header/search-header.php:55
+#: inc/js-customizer.php:65
+msgid "All Genres"
+msgstr ""
+
+#: header/mobile-navigation.php:92 header/search-header.php:72
+msgid "Duration:"
+msgstr ""
+
+#: header/mobile-navigation.php:94 header/search-header.php:74
+#: inc/js-customizer.php:76
+msgid "Any Duration"
+msgstr ""
+
+#: header/mobile-navigation.php:95 header/search-header.php:75
+msgid "Short (< 5 minutes)"
+msgstr ""
+
+#: header/mobile-navigation.php:96 header/search-header.php:76
+msgid "Medium (5-10 minutes)"
+msgstr ""
+
+#: header/mobile-navigation.php:97 header/search-header.php:77
+msgid "Long (> 10 minutes)"
+msgstr ""
+
+#: header/mobile-navigation.php:105 header/search-header.php:85
+msgid "Category:"
+msgstr ""
+
+#: header/mobile-navigation.php:107 header/search-header.php:87
+#: inc/js-customizer.php:82
+msgid "All Categories"
+msgstr ""
+
+#: header/mobile-navigation.php:125 header/search-header.php:105
+msgid "Director:"
+msgstr ""
+
+#: header/mobile-navigation.php:127 header/search-header.php:107
+#: inc/js-customizer.php:93
+msgid "All Directors"
+msgstr ""
+
+#: header/mobile-navigation.php:142 header/search-header.php:122
+msgid "Average Rating:"
+msgstr ""
+
+#: header/mobile-navigation.php:151 header/search-header.php:131
+msgid "Filter Search"
+msgstr ""
+
+#: header/mobile-navigation.php:152 header/search-header.php:132
+msgid "Reset"
+msgstr ""
+
+#: header/mobile-navigation-landing.php:9 header/profile-menu.php:22
+#: inc/template-tags.php:135
+msgid "Log Out"
+msgstr ""
+
+#: header/notifications-menu.php:8
+msgid "Notifications"
+msgstr ""
+
+#: header/notifications-menu.php:30
+msgid "ago"
+msgstr ""
+
+#: header/notifications-menu.php:38
+msgid "No new notifications at this time"
+msgstr ""
+
+#: header/profile-menu.php:12
+msgid "My Profile"
+msgstr ""
+
+#: header/profile-menu.php:17
+msgid "Edit Profile"
+msgstr ""
+
+#: header/profile-menu.php:19
+msgid "My Watchlist"
+msgstr ""
+
+#: header/profile-menu.php:20
+msgid "My Favorites"
+msgstr ""
+
+#: inc/video-favorite.php:31
+msgid "Favorite"
+msgstr ""
+
+#: inc/video-favorite.php:31
+msgid "Add to Favorites"
+msgstr ""
+
+#: inc/video-favorite.php:169
+msgid "Please log in to add videos to your favorites"
+msgstr ""
+
+#: inc/template-tags.php:214
+msgid "Your review is currently awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:277 inc/template-tags.php:367
+msgid "Read more"
+msgstr ""
+
+#: inc/template-tags.php:540 inc/template-tags.php:576
+msgid "&lsaquo; Previous"
+msgstr ""
+
+#: inc/template-tags.php:541 inc/template-tags.php:577
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: inc/template-tags.php:605
+msgid "Load More <span><i class=\"fa fa-arrow-circle-down\"></i></span>"
+msgstr ""
+
+#: inc/video-watchlist.php:31
+msgid "Add to Watchlist"
+msgstr ""
+
+#: inc/video-watchlist.php:167
+msgid "Please log in to add videos to your wishlist"
+msgstr ""
+
+#: inc/js-customizer.php:69
+msgid "No genres found"
+msgstr ""
+
+#: inc/js-customizer.php:86
+msgid "No categories found"
+msgstr ""
+
+#: inc/js-customizer.php:97
+msgid "No directors found"
+msgstr ""
+
+#: template-parts/content-none-videos.php:8
+msgid "No Videos Found"
+msgstr ""
+
+#: template-parts/content-none-videos.php:11
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: template-parts/related-posts.php:35
+msgid "More Like This"
+msgstr ""
+
+#: template-parts/content-none.php:8
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:13
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different search terms."
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content.php:69 template-parts/content-single.php:86
+msgid "<i class=\"fas fa-comments\" aria-hidden=\"true\"></i>0 comments"
+msgstr ""
+
+#: template-parts/content.php:69 template-parts/content-single.php:86
+msgid "<i class=\"fas fa-comments\" aria-hidden=\"true\"></i>1 comment"
+msgstr ""
+
+#: template-parts/content.php:69 template-parts/content-single.php:86
+#, php-format
+msgid "<i class=\"fas fa-comments\" aria-hidden=\"true\"></i>% comments"
+msgstr ""
+
+#: template-parts/content.php:78
+msgid ""
+"Continue reading <i class=\"fa fa-chevron-right\" aria-hidden=\"true\"></i>"
+msgstr ""
+
+#: template-parts/content.php:83
+msgid ""
+"Continue Reading <i class=\"fas fa-chevron-right\" aria-hidden=\"true\"></i>"
+msgstr ""
+
+#: template-parts/content.php:92 template-parts/content-page.php:17
+#: template-parts/content-single.php:104
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:103
+msgid "FEATURED"
+msgstr ""
+
+#: template-parts/cast-posts.php:11
+msgctxt "Kombatants"
+msgid "Lead Cast"
+msgstr ""
+
+#: template-parts/content-slider.php:152
+msgid "Starring"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:50
+msgid "Boosted Elements"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:57
+msgid "Progression Theme Elements - SKRN"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:64
+msgid "ARMember"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:71
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:77
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:83
+msgid "CMB2"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:91
+msgid "Easy Google Fonts"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:129
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:130
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:131
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:132
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:133
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:138
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:143
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:148
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:153
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:158
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:163
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:168
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:173
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:178
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:183
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:188
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:193
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:194
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:195
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:196
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:197
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:198
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:199
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:448
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:452
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:465
+msgid "sub item"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:480
+msgid "Move up"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:493
+msgid "Move down"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:495 inc/mega-menu/mega-menus.php:497
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:506
+msgid "URL"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:513
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:519
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:526
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:531
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:537
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:543
+msgid "Description"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:545
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:553
+msgid "Menu Mini Banner Text"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:562
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:567
+msgid "Mega Menu Number of Columns"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:569
+msgid "1 Column"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:570
+msgid "2 Columns"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:571
+msgid "3 Columns"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:572
+msgid "4 Columns"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:573
+msgid "5 Columns"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:574
+msgid "6 Columns"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:581
+msgid "Disable Mega Menu Column Title"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:587
+msgid "IconsMind Icon (<a href=\""
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:598
+msgid "FontAwesome Icon (<a href=\""
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:605
+msgid "Mega Menu Widget Area"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:607
+msgid "Select Widget Area"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:620
+msgid "Move"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:621
+msgid "Up one"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:622
+msgid "Down one"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:625
+msgid "To the top"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:632
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:645
+msgid "Remove"
+msgstr ""
+
+#: inc/mega-menu/mega-menus.php:646
+msgid "Cancel"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:14
+msgid "Search Options"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:24
+#: inc/customizer/typography-controls.php:116
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:32
+msgid "Sidebar Sub-Navigation"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:41
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:49
+msgid "Sub-Navigation"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:58
+msgid "Top Header Options"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:67
+msgid "Body Main"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:76
+msgid "Page Title"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:84
+msgid "Footer Main"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:94
+msgid "Footer Navigation"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:105
+msgid "H1-H6 Headings"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:124
+msgid "Header Login Button Styles"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:133
+msgid "Button/Input Styles"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:142
+msgid "Profile Page Settings"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:153
+msgid "Blog Default Styles"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:162
+msgid "Blog Post Options"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:170
+msgid "Blog Post Styles"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:179
+msgid "Video Index Options"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:187
+msgid "Video Post Options"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:195
+msgid "Video Rating Styles"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:204
+msgid "Profile Header"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:252
+msgid "Navigation Font"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:264
+msgid "Sub-Navigation Font"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:276
+msgid "Navigation Font Family"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:288
+msgid "Sub-Navigation Font Family"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:300
+msgid "Body Font"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:311
+msgid "Heading 1"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:323
+msgid "Heading 2"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:335
+msgid "Heading 3"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:347
+msgid "Heading 4"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:359
+msgid "Heading 5"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:371
+msgid "Heading 6"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:385
+msgid "Page Title Font"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:397
+msgid "Page Sub-Title Font"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:410
+#: inc/customizer/typography-controls.php:521
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:421
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:432
+msgid "Post Meta Hover"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:444
+msgid "Header Login Button Font"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:457
+msgid "Button Font Family"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:470
+msgid "Sidebar Heading"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:483
+msgid "Sidebar Default Text"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:496
+msgid "Sidebar Default Link"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:508
+msgid "Sidebar Link Hover"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:533
+msgid "Title Hover"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:545
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:559
+msgid "Post Title"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:571
+msgid "Sidebar Meta Headings"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:583
+msgid "Sidebar Meta Text"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:597
+msgid "Search Headings"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:610
+msgid "Username Font"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:623
+msgid "Username Hover"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:635
+msgid "Dropdown Link"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:647
+msgid "Dropdown Link Hover"
+msgstr ""
+
+#: template-parts/comments/comments-popup.php:16
+msgid "Reviews for: "
+msgstr ""
+
+#: template-parts/comments/comments-popup.php:20
+msgid "Average Rating"
+msgstr ""
+
+#: template-parts/comments/comments-popup.php:70
+msgid "Write a Review "
+msgstr ""
+
+#: template-parts/comments/comments-popup.php:78
+msgid "Submit Review"
+msgstr ""
+
+#: template-parts/comments/comments-popup.php:84
+msgid "Write your review here..."
+msgstr ""
+
+#: template-parts/comments/comments-popup.php:104
+msgid ""
+"Thank you for your review. Your review is currently awaiting moderation."
+msgstr ""
+
+#: template-parts/comments/comments-popup.php:107
+msgid "There are currently no reviews for "
+msgstr ""
+
+#: template-parts/comments/comments-sidebar.php:9
+msgid "Recent Reviews"
+msgstr ""
+
+#: template-parts/comments/comments-sidebar.php:31
+msgid "See All Reviews"
+msgstr ""
+
+#: template-parts/comments/comments-sidebar.php:35
+msgid "No reviews of "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "SKRN Progression"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Media Streaming App WordPress Theme"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://skrn.progressionstudios.com/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Progression Studios"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://progressionstudios.com/"
+msgstr ""

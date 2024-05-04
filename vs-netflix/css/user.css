@@ -1,0 +1,57 @@
+#user-menu {
+    position: relative;
+}
+#user-menu img.avatar {
+    vertical-align: middle;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 7px;
+    margin-bottom: 2px;
+}
+
+#user-sub-menu {
+    position: absolute;
+    width: 100%;
+}
+
+header#header nav#desktop ul#user-sub-menu {
+    height: auto;
+}
+
+nav#mobile #user-sub-menu {
+    display: none;
+}
+
+header#header nav ul#user-sub-menu li, header#header nav ul#user-sub-menu li a {
+    display: block;
+    text-align: left;
+}
+
+header#header nav ul#user-sub-menu li a {
+    padding: 10px;
+}
+
+header#header nav ul#user-sub-menu li {
+    white-space: nowrap;
+}
+
+nav#desktop ul#user-sub-menu li .dashicons {
+    vertical-align: sub;
+}
+
+@media screen and (min-width: 768px) {
+
+header#header nav#desktop #user-sub-menu {
+    display:none;
+    width: auto;
+    right: 0;
+    top: 100%;
+}
+
+header#header nav#desktop #user-menu:hover > #user-sub-menu {
+    display: block !important;
+}
+
+}

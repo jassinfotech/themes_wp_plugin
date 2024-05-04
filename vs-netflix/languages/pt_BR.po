@@ -1,0 +1,1606 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPVS Theme\n"
+"POT-Creation-Date: 2019-04-05 12:53-0700\n"
+"PO-Revision-Date: 2019-05-22 16:50-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:9 nothing-found.php:4
+msgid "Oops, there is nothing here! 404"
+msgstr "Oops, não há nada aqui! 404"
+
+#: 404.php:11 nothing-found.php:6
+msgid "If you think this is an error, please"
+msgstr "Se você acha que isso é um erro, por favor"
+
+#: 404.php:11 nothing-found.php:6
+msgid "contact us"
+msgstr "contate-nos"
+
+#: 404.php:12 nothing-found.php:7
+msgid "Go to Home Page"
+msgstr "Ir para a Página Inicial"
+
+#. translators: %s: post title
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%s&rdquo;"
+msgstr "Um comentário sobre \" %s\""
+
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentário sobre \"%2$s\""
+msgstr[1] "%1$s comentários em &ldquo;%2$s&rdquo;"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Comentários estão fechados."
+
+#: comments.php:83
+msgid "Leave A Reply"
+msgstr "Deixe uma resposta"
+
+#: footer.php:50
+msgid "Cookie Settings"
+msgstr "Configurações de cookies"
+
+#: front-page.php:16 includes/custom-posts.php:9
+msgid "Featured Area"
+msgstr "Área Destacada"
+
+#: front-page.php:17
+msgid ""
+"This is an example Featured Area. You can create multiple Featured Areas, "
+"each with multiple slides within the admin area."
+msgstr ""
+"Este é um exemplo de área em destaque. Você pode criar várias áreas em "
+"destaque, cada uma com vários slides dentro da área de administração."
+
+#: front-page.php:18
+msgid "Create A Featured Area"
+msgstr "Criar uma área em destaque"
+
+#: functions.php:13
+msgid "Watch Now"
+msgstr "Assistir Agora"
+
+#: functions.php:73
+msgid "Video Landscape"
+msgstr "Paisagem de vídeo"
+
+#: functions.php:74
+msgid "Video Portrait"
+msgstr "Retrato do vídeo"
+
+#: functions.php:75
+msgid "Featured Header"
+msgstr "Cabeçalho em destaque"
+
+#: functions.php:76
+msgid "Custom Video Thumbnail"
+msgstr "Miniatura de vídeo personalizado"
+
+#: functions.php:112
+msgid "Page Sidebar"
+msgstr "Barra lateral da página"
+
+#: functions.php:114
+msgid "Displays on the right side of page"
+msgstr "Exibe no lado direito da página"
+
+#: functions.php:122
+msgid "Blog Sidebar"
+msgstr "Barra Lateral do Blog"
+
+#: functions.php:124
+msgid "Displays on the right side of blog posts and blog page."
+msgstr "Exibe no lado direito de postagens de blog e página de blog."
+
+#: functions.php:219
+msgid ""
+"WPVS Theme Theme not activated: You need to upgrade your PHP Version to at "
+"least 5.5."
+msgstr ""
+"WPVS Theme Theme não ativado: você precisa atualizar sua versão PHP para "
+"pelo menos 5,5."
+
+#: includes/admin-menu.php:5 includes/theme-settings.php:7
+msgid "Theme Styling"
+msgstr "Estilo do Tema"
+
+#: includes/admin-menu.php:6 includes/theme-google-tracking.php:23
+msgid "Google Tracking"
+msgstr "Monitoramento do Google"
+
+#: includes/admin-menu.php:7 includes/theme-social-settings.php:35
+msgid "Social Media"
+msgstr "Redes Sociais"
+
+#: includes/admin-menu.php:8
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: includes/admin-menu.php:9
+msgid "Updates"
+msgstr "Atualizações"
+
+#: includes/admin/dynamic-slider-admin.php:18
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Você não tem permissões suficientes para acessar esta página."
+
+#: includes/admin/dynamic-slider-admin.php:37 includes/customize.php:345
+msgid "Featured Area Sliders"
+msgstr "Sliders área em destaque"
+
+#: includes/admin/dynamic-slider-admin.php:55
+msgid "Save Title"
+msgstr "Salvar título"
+
+#: includes/admin/dynamic-slider-admin.php:57
+msgid "Delete Slider"
+msgstr "Apagar Slider"
+
+#: includes/admin/dynamic-slider-admin.php:59
+msgid "New Slide"
+msgstr "Novo Slide"
+
+#: includes/admin/dynamic-slider-admin.php:67
+msgid "Save Settings"
+msgstr "Salvar Configurações"
+
+#: includes/admin/dynamic-slider-admin.php:176
+msgid "Saving"
+msgstr "Salvando"
+
+#: includes/admin/dynamic-slider-admin.php:186
+msgid "Set Image"
+msgstr "Definir imagem"
+
+#: includes/admin/dynamic-slider-admin.php:187
+msgid "Set Video"
+msgstr "Definir vídeo"
+
+#: includes/admin/dynamic-slider-admin.php:193
+msgid "YouTube URL"
+msgstr "URL do YouTube"
+
+#: includes/admin/dynamic-slider-admin.php:199
+msgid "Vimeo URL"
+msgstr "URL do Vimeo"
+
+#: includes/admin/dynamic-slider-admin.php:205
+msgid "HTML iFrame"
+msgstr "IFrame HTML"
+
+#: includes/admin/dynamic-slider-admin.php:210
+msgid "Upload"
+msgstr "Upload"
+
+#: includes/admin/dynamic-slider-admin.php:211
+msgid "Choose Video"
+msgstr "Escolha o Vídeo"
+
+#: includes/admin/dynamic-slider-admin.php:215
+msgid "Mute Video"
+msgstr "Silenciar vídeo"
+
+#: includes/admin/dynamic-slider-admin.php:219
+msgid "Aspect Ratio"
+msgstr "Aspect Ratio"
+
+#: includes/admin/dynamic-slider-admin.php:221
+msgid "16:9 (Default)"
+msgstr "16:9 (predefinição)"
+
+#: includes/admin/dynamic-slider-admin.php:222
+msgid "2.39:1 (Cinematic)"
+msgstr ": 1 (cinematográfico)"
+
+#: includes/admin/dynamic-slider-admin.php:228
+msgid "Videos"
+msgstr "Vídeos"
+
+#: includes/admin/dynamic-slider-admin.php:235
+msgid "Video Categories"
+msgstr "Vvídeo Categorias"
+
+#: includes/admin/dynamic-slider-admin.php:259
+msgid "Pages"
+msgstr "Páginas"
+
+#: includes/admin/dynamic-slider-admin.php:271
+msgid "Categories"
+msgstr "Categorias"
+
+#: includes/admin/dynamic-slider-admin.php:283
+msgid "Posts"
+msgstr "Posts"
+
+#: includes/admin/dynamic-slider-admin.php:295
+msgid "Image Alt"
+msgstr "Imagem Alt"
+
+#: includes/admin/dynamic-slider-admin.php:299
+msgid "Heading"
+msgstr "Cabeçalho"
+
+#: includes/admin/dynamic-slider-admin.php:303
+msgid "Description"
+msgstr "Descrição"
+
+#: includes/admin/dynamic-slider-admin.php:307
+msgid "Button Text"
+msgstr "Texto do Botão"
+
+#: includes/admin/dynamic-slider-admin.php:316
+msgid "Button Size"
+msgstr "Tamanho do botão"
+
+#: includes/admin/dynamic-slider-admin.php:318
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/admin/dynamic-slider-admin.php:319
+msgid "Large"
+msgstr "Grande"
+
+#: includes/admin/dynamic-slider-admin.php:324
+msgid "Links To"
+msgstr "Link para"
+
+#: includes/admin/dynamic-slider-admin.php:333
+msgid "Align Content"
+msgstr "Alinhar conteúdo"
+
+#: includes/admin/dynamic-slider-admin.php:335
+msgid "Left"
+msgstr "Esquerda"
+
+#: includes/admin/dynamic-slider-admin.php:336
+msgid "Center"
+msgstr "Centro"
+
+#: includes/admin/dynamic-slider-admin.php:337
+msgid "Right"
+msgstr "Direita"
+
+#: includes/admin/dynamic-slider-admin.php:341
+msgid "Link entire slide"
+msgstr "Vincular slide inteiro"
+
+#: includes/admin/dynamic-slider-admin.php:353
+msgid "Open in new tab"
+msgstr "Abrir em nova aba"
+
+#: includes/admin/dynamic-slider-admin.php:365
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/admin/dynamic-slider-admin.php:375
+msgid "Add New Slider"
+msgstr "Adicionar Novo Slider"
+
+#: includes/custom-ajax.php:549 includes/custom-ajax.php:551
+#: includes/custom-functions.php:384 includes/customize.php:953
+#: includes/scripts.php:331
+msgid "My List"
+msgstr "Minha lista"
+
+#: includes/custom-functions.php:163
+#, php-format
+msgid "based on <a class=\"wpvs-review-anchor\" href=\"%s\">%d reviews</a>"
+msgstr ""
+"com base em <a class=\"wpvs-review-anchor\" href=\"%s\">% d comentários</a>"
+
+#: includes/custom-functions.php:165
+#, php-format
+msgid ""
+"No reviews yet. <a class=\"wpvs-review-anchor\" href=\"%s\">Leave A Review</"
+"a>"
+msgstr ""
+"Não há comentários ainda. <a class=\"wpvs-review-anchor\" href=\"%s\">Deixe "
+"um comentário</a>"
+
+#: includes/custom-functions.php:314
+msgid "Something is wrong with this videos Shortcode"
+msgstr "Algo está errado com este shortcode vídeos"
+
+#: includes/custom-posts.php:18
+msgid "Video Options"
+msgstr "Opções do Vídeo"
+
+#: includes/custom-posts.php:26
+msgid "Thumbnail Image"
+msgstr "Imagem em miniatura"
+
+#: includes/custom-posts.php:34
+msgid "Video Page Layout"
+msgstr "Layout de página de vídeo"
+
+#: includes/custom-posts.php:45
+msgid "Page Options"
+msgstr "Opções da página"
+
+#: includes/custom-posts.php:88
+msgid "Slider:"
+msgstr "Slider:"
+
+#: includes/custom-posts.php:101
+msgid "Shortcode:"
+msgstr "Shortcode:"
+
+#: includes/custom-posts.php:138
+msgid "Hide on homepage sliders"
+msgstr "Ocultar em sliders homepage"
+
+#: includes/custom-posts.php:139 includes/custom-posts.php:611
+#: includes/custom-posts.php:711
+msgid "Hide on Homepage"
+msgstr "Ocultar na página inicial"
+
+#: includes/custom-posts.php:140
+msgid "Hide from Recently Added"
+msgstr "Ocultar de recentemente adicionado"
+
+#: includes/custom-posts.php:144
+msgid "Slide Links to"
+msgstr "Deslize links para"
+
+#: includes/custom-posts.php:146
+msgid "Video Page"
+msgstr "Página de vídeo"
+
+#: includes/custom-posts.php:190
+msgid "Remove Top Header Spacing"
+msgstr "Remover espaçamento do cabeçalho superior"
+
+#: includes/custom-posts.php:349
+msgid "Trailer Preview"
+msgstr "Trailer Preview"
+
+#: includes/custom-posts.php:476 includes/custom-posts.php:587
+#: includes/custom-posts.php:690
+msgid "Customizer"
+msgstr "Personalizar"
+
+#: includes/custom-posts.php:554 includes/custom-posts.php:658
+msgid "Contains TV Shows"
+msgstr "Contém programas de TV"
+
+#: includes/custom-posts.php:555 includes/custom-posts.php:661
+msgid ""
+"Lists TV Shows. Is this a main category for shows (TV Action, TV Comedy, etc)"
+msgstr ""
+"Lista programas de TV. É esta uma categoria principal para mostras (ação da "
+"tevê, Comedy da tevê, etc.)"
+
+#: includes/custom-posts.php:563 includes/custom-posts.php:666
+msgid "Series / TV Show (Has Seasons)"
+msgstr "Série/programa de TV (tem estações)"
+
+#: includes/custom-posts.php:564
+msgid "Is this a TV Show with Seasons and Episodes?"
+msgstr "É este um programa de TV com temporadas e episódios?"
+
+#: includes/custom-posts.php:565 includes/custom-posts.php:669
+msgid "Leave this <strong>unchecked</strong> if:"
+msgstr "Deixe este <strong>desmarcado</strong> se:"
+
+#: includes/custom-posts.php:578
+msgid "TV Show Thumbnail Size"
+msgstr "Tamanho da miniatura do programa de TV"
+
+#: includes/custom-posts.php:587
+msgid "If this is a TV Show, upload a thumbnail image"
+msgstr "Se for um programa de TV, carregue uma imagem em miniatura"
+
+#: includes/custom-posts.php:590 includes/custom-posts.php:695
+msgid "Subcategories Order"
+msgstr "Subcategorias ordem"
+
+#: includes/custom-posts.php:593 includes/custom-posts.php:698
+msgid "Title (Default)"
+msgstr "Título (padrão)"
+
+#: includes/custom-posts.php:594 includes/custom-posts.php:699
+msgid "ID (Creation Date)"
+msgstr "ID (data de criação)"
+
+#: includes/custom-posts.php:596
+msgid "How subcategories should be ordered"
+msgstr "Como as subcategorias devem ser ordenadas"
+
+#: includes/custom-posts.php:601 includes/custom-posts.php:704
+msgid "Homepage Order"
+msgstr "Ordem de homepage"
+
+#: includes/custom-posts.php:602 includes/custom-posts.php:707
+msgid "Order of appearance on home page"
+msgstr "Ordem de aparição na página inicial"
+
+#: includes/custom-posts.php:612 includes/custom-posts.php:714
+msgid "Hide this category on home page sliders"
+msgstr "Ocultar esta categoria nos controles deslizantes da página inicial"
+
+#: includes/custom-posts.php:679
+msgid "TV Show Thumbnail Image"
+msgstr "Imagem de miniatura do programa de TV"
+
+#: includes/custom-posts.php:718
+msgid "Featured Slider"
+msgstr "Slider em Destaque"
+
+#: includes/custom-posts.php:784 includes/custom-posts.php:822
+msgid "Profile Image"
+msgstr "Imagem de perfil"
+
+#: includes/custom-posts.php:791 includes/custom-posts.php:830
+msgid "Recommended size"
+msgstr "Tamanho recomendado"
+
+#: includes/custom-posts.php:795 includes/custom-posts.php:834
+msgid "Profile Link (IMDb)"
+msgstr "Perfil link (IMDb)"
+
+#: includes/custom-posts.php:797 includes/custom-posts.php:837
+msgid "Link to a profile such as on IMDb"
+msgstr "Link para um perfil como no IMDb"
+
+#: includes/customize.php:11
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/customize.php:27
+msgid "Desktop Logo Height (px)"
+msgstr "Altura do logotipo do desktop (px)"
+
+#: includes/customize.php:28
+msgid "Set the height of your logo on tablets and desktops."
+msgstr "Defina a altura do seu logotipo em tablets e desktops."
+
+#: includes/customize.php:37
+msgid "Mobile Logo"
+msgstr "Logotipo Mobile"
+
+#: includes/customize.php:53
+msgid "Mobile Logo Height (px)"
+msgstr "Altura do logotipo móvel (px)"
+
+#: includes/customize.php:54
+msgid "Set the height of your logo on mobile devices."
+msgstr "Defina a altura do seu logótipo em dispositivos móveis."
+
+#: includes/customize.php:67
+msgid "Login Logo Height (px)"
+msgstr "Altura do logotipo do início de uma sessão (px)"
+
+#: includes/customize.php:68
+msgid "Set the height of your logo on the Login screen."
+msgstr "Defina a altura do seu logótipo no ecrã de início de sessão."
+
+#: includes/customize.php:79
+msgid "Theme Style"
+msgstr "Estilo do Tema"
+
+#: includes/customize.php:93
+msgid "Accent Color"
+msgstr "Cor de realce"
+
+#: includes/customize.php:101
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: includes/customize.php:102
+msgid "Header area customization."
+msgstr "Personalização da área de cabeçalho."
+
+#: includes/customize.php:114
+msgid "Search placeholder text"
+msgstr "Texto do espaço reservado de pesquisa"
+
+#: includes/customize.php:116
+msgid "Placeholder text for the search input"
+msgstr "Texto de espaço reservado para a entrada de pesquisa"
+
+#: includes/customize.php:127
+msgid "Show Sign In / User Menu"
+msgstr "Mostrar login/menu do usuário"
+
+#: includes/customize.php:139
+msgid "Sign In button text"
+msgstr "Texto do botão de entrada"
+
+#: includes/customize.php:175
+msgid "Sign In Link"
+msgstr "Link de login"
+
+#: includes/customize.php:178
+msgid "Where the Sign In button takes users to login."
+msgstr "Onde o botão entrar leva os usuários a fazer logon."
+
+#: includes/customize.php:198
+msgid "User Menu"
+msgstr "Menu do Usuário"
+
+#: includes/customize.php:212
+msgid "User Menu Link Texts"
+msgstr "Texto do link do menu do usuário"
+
+#: includes/customize.php:214
+msgid "User Menu text links in order (Default Menu only)"
+msgstr "Links de texto do menu do usuário em ordem (somente menu padrão)"
+
+#: includes/customize.php:273
+msgid "Hide primary menu on home page"
+msgstr "Ocultar menu principal na Home Page"
+
+#: includes/customize.php:285
+msgid "Hide search"
+msgstr "Oculta busca"
+
+#: includes/customize.php:295
+msgid "Typography"
+msgstr "Tipografia"
+
+#: includes/customize.php:296
+msgid ""
+"Customize your website fonts. <a href=\"https://fonts.google.com/\" target="
+"\"_blank\">Browse Fonts</a>"
+msgstr ""
+"Personalize as fontes do seu site. <a href=\"https://fonts.google.com/\" "
+"target=\"_blank\">Procurar fontes</a>"
+
+#: includes/customize.php:308
+msgid "Disable Fonts"
+msgstr "Desabilitar fontes"
+
+#: includes/customize.php:310
+msgid "Disable fonts from loading"
+msgstr "Desabilitar fontes do carregamento"
+
+#: includes/customize.php:321
+msgid "Primary Font"
+msgstr "Fonte Principal"
+
+#: includes/customize.php:323
+msgid "Main content font (body, p, a, ul, etc)"
+msgstr "Fonte de conteúdo principal (corpo, p, a, UL, etc)"
+
+#: includes/customize.php:335
+msgid "Headings Font"
+msgstr "Fonte dos cabeçalhos"
+
+#: includes/customize.php:337
+msgid "H1, H2, H3, H4, H5 and H6"
+msgstr "H1, H2, H3, H4, H5 e H6"
+
+#: includes/customize.php:346
+msgid "Home page slider customization."
+msgstr "Personalização do slider da página inicial."
+
+#: includes/customize.php:358
+msgid "Slide Speed"
+msgstr "Velocidade do slide"
+
+#: includes/customize.php:360
+msgid "Change the home page featured slides speed"
+msgstr "Alterar a página inicial em destaque slides velocidade"
+
+#: includes/customize.php:363
+msgid "Disable Automatic Sliding"
+msgstr "Desativar deslizamento automático"
+
+#: includes/customize.php:364
+msgid "1 Second"
+msgstr "1 Segundo"
+
+#: includes/customize.php:365
+msgid "1.5 Seconds"
+msgstr "1,5 segundos"
+
+#: includes/customize.php:366
+msgid "2 Seconds"
+msgstr "2 Segundos"
+
+#: includes/customize.php:367 includes/customize.php:369
+msgid "3.5 Seconds"
+msgstr "3,5 segundos"
+
+#: includes/customize.php:368
+msgid "3 Seconds"
+msgstr "3 Segundos"
+
+#: includes/customize.php:370
+msgid "4 Seconds"
+msgstr "4 Segundos"
+
+#: includes/customize.php:371
+msgid "4.5 Seconds"
+msgstr "4,5 segundos"
+
+#: includes/customize.php:372
+msgid "5 Seconds"
+msgstr "5 Segundos"
+
+#: includes/customize.php:373
+msgid "5.5 Seconds"
+msgstr "5,5 segundos"
+
+#: includes/customize.php:374
+msgid "6 Seconds"
+msgstr "6 Segundos"
+
+#: includes/customize.php:375
+msgid "6.5 Seconds"
+msgstr "6,5 segundos"
+
+#: includes/customize.php:376
+msgid "7 Seconds"
+msgstr "7 Segundos"
+
+#: includes/customize.php:377
+msgid "7.5 Seconds"
+msgstr "7,5 segundos"
+
+#: includes/customize.php:378
+msgid "8 Seconds"
+msgstr "8 Segundos"
+
+#: includes/customize.php:379
+msgid "8.5 Seconds"
+msgstr "8,5 segundos"
+
+#: includes/customize.php:380
+msgid "9 Seconds"
+msgstr "9 Segundos"
+
+#: includes/customize.php:381
+msgid "9.5 Seconds"
+msgstr "9,5 segundos"
+
+#: includes/customize.php:382
+msgid "10 Seconds"
+msgstr "10 Segundos"
+
+#: includes/customize.php:393
+msgid "Slide Gradient Overlay"
+msgstr "Sobreposição de gradiente de slide"
+
+#: includes/customize.php:395
+msgid "Change the featured area slides overlay intensity"
+msgstr "Alterar a intensidade de sobreposição de slides de área em destaque"
+
+#: includes/customize.php:398
+msgid "No overlay"
+msgstr "Sem sobreposição"
+
+#: includes/customize.php:399
+msgid "0.1"
+msgstr "0.1"
+
+#: includes/customize.php:400
+msgid "0.2"
+msgstr "0.2"
+
+#: includes/customize.php:401
+msgid "0.3"
+msgstr "0.3"
+
+#: includes/customize.php:402
+msgid "0.4"
+msgstr "0.4"
+
+#: includes/customize.php:403
+msgid "0.5"
+msgstr "0.5"
+
+#: includes/customize.php:404
+msgid "0.6"
+msgstr "0.6"
+
+#: includes/customize.php:405
+msgid "0.7"
+msgstr "0.7"
+
+#: includes/customize.php:406
+msgid "0.8"
+msgstr "0.8"
+
+#: includes/customize.php:407
+msgid "0.9"
+msgstr "0.9"
+
+#: includes/customize.php:418
+msgid "Slide Content Blend"
+msgstr "Blend de conteúdo de slides"
+
+#: includes/customize.php:420
+msgid "Enable / Disable the content blend overlay at the bottom of slides."
+msgstr ""
+"Ative/desative a sobreposição de mesclagem de conteúdo na parte inferior dos "
+"slides."
+
+#: includes/customize.php:423
+msgid "Disabled"
+msgstr "Desativado"
+
+#: includes/customize.php:424 includes/customize.php:966
+msgid "Enabled"
+msgstr "Ativado"
+
+#: includes/customize.php:431
+msgid "Video Sliders"
+msgstr "Sliders de vídeo"
+
+#: includes/customize.php:432
+msgid "Horizontal video navigation."
+msgstr "Navegação de vídeo horizontal."
+
+#: includes/customize.php:445
+msgid "Videos per slider"
+msgstr "Vídeos por Slider"
+
+#: includes/customize.php:448
+msgid "How many videos to load in horizontal browsing sliders"
+msgstr ""
+"Quantos vídeos para carregar em controles deslizantes de navegação horizontal"
+
+#: includes/customize.php:459
+msgid "Visible Thumbnails (Large Screens)"
+msgstr "Miniaturas visíveis (telas grandes)"
+
+#: includes/customize.php:466
+msgid "How many thumbnails are visible on large screens (1600px or more)"
+msgstr "Quantas miniaturas são visíveis em telas grandes (1600px ou mais)"
+
+#: includes/customize.php:477 includes/customize.php:595
+msgid "Visible Thumbnails (Desktop)"
+msgstr "Miniaturas visíveis (área de trabalho)"
+
+#: includes/customize.php:484
+msgid "How many thumbnails are visible on desktop screens (1200px - 1600px)"
+msgstr "Quantas miniaturas são visíveis em telas de desktop (1200px-1600px)"
+
+#: includes/customize.php:495 includes/customize.php:613
+msgid "Visible Thumbnails (Laptop)"
+msgstr "Miniaturas visíveis (laptop)"
+
+#: includes/customize.php:502
+msgid "How many thumbnails are visible on laptop screens (960px - 1200px)"
+msgstr "Quantas miniaturas são visíveis em telas de laptop (960px-1200px)"
+
+#: includes/customize.php:513 includes/customize.php:631
+msgid "Visible Thumbnails (Tablet)"
+msgstr "Miniaturas visíveis (Tablet)"
+
+#: includes/customize.php:520
+msgid "How many thumbnails are visible on tablet screens (600px - 960px)"
+msgstr "Quantas miniaturas são visíveis em telas de Tablet (600px-960px)"
+
+#: includes/customize.php:531 includes/customize.php:649
+msgid "Visible Thumbnails (Mobile)"
+msgstr "Miniaturas visíveis (móvel)"
+
+#: includes/customize.php:538
+msgid "How many thumbnails are visible on mobile screens (600px or smaller)"
+msgstr "Quantas miniaturas são visíveis em telas móveis (600px ou menor)"
+
+#: includes/customize.php:545
+msgid "Video Browsing"
+msgstr "Navegação por vídeo"
+
+#: includes/customize.php:546
+msgid "Default video browsing pages settings"
+msgstr "Configurações de páginas de navegação por vídeo padrão"
+
+#: includes/customize.php:559
+msgid "Browsing Layout"
+msgstr "Layout de navegação"
+
+#: includes/customize.php:562
+msgid "Grid"
+msgstr "Grade"
+
+#: includes/customize.php:563
+msgid "Sliders"
+msgstr "Sliders"
+
+#: includes/customize.php:566
+msgid "Video browsing pages layout."
+msgstr "Layout de páginas de navegação de vídeo."
+
+#: includes/customize.php:577
+msgid "Visible Thumbnails (Large)"
+msgstr "Miniaturas visíveis (grande)"
+
+#: includes/customize.php:584
+msgid "How many thumbnails per row on large screens (1600px or larger)"
+msgstr "Quantas miniaturas por linha em telas grandes (1600px ou maior)"
+
+#: includes/customize.php:602
+msgid "How many thumbnails per row on desktop screens (1200px - 1600px)"
+msgstr ""
+"Quantas miniaturas por linha em ecrãs de ambiente de trabalho (1200px-1600px)"
+
+#: includes/customize.php:620
+msgid "How many thumbnails per row on laptop screens (960px - 1200px)"
+msgstr "Quantas miniaturas por fileira em telas de laptop (960px-1200px)"
+
+#: includes/customize.php:638
+msgid "How many thumbnails per row on tablet screens (600px - 960px)"
+msgstr "Quantas miniaturas por linha em telas de Tablet (600px-960px)"
+
+#: includes/customize.php:656
+msgid "How many thumbnails per row on mobile screens (600px or smaller)"
+msgstr "Quantas miniaturas por linha em telas móveis (600px ou menor)"
+
+#: includes/customize.php:667
+msgid "Drop Down Video Details"
+msgstr "Detalhes do vídeo suspenso"
+
+#: includes/customize.php:670
+msgid "Display video details below video slides and rows."
+msgstr "Exibir detalhes de vídeo abaixo de slides e linhas de vídeo."
+
+#: includes/customize.php:680
+msgid "Video Thumbnail Hover Effect"
+msgstr "Efeito de sobreposição de miniaturas de vídeo"
+
+#: includes/customize.php:683
+msgid "Expand video thumbnails on hover. <em>(Larger screen sizes only)</em>"
+msgstr ""
+"Expanda miniaturas de vídeo no hover. <em>(Tamanhos de tela maiores "
+"somente)</em>"
+
+#: includes/customize.php:694
+msgid "Video thumbnail style"
+msgstr "Estilo de miniatura de vídeo"
+
+#: includes/customize.php:697
+msgid "Landscape (640px by 360px)"
+msgstr "Paisagem (640px por 360px)"
+
+#: includes/customize.php:698
+msgid "Portrait (380px by 590px)"
+msgstr "Retrato (380px por 590px)"
+
+#: includes/customize.php:699
+msgid "Custom Size"
+msgstr "Tamanho Personalizado"
+
+#: includes/customize.php:702
+msgid ""
+"Video thumbnail image style. If you use a <strong>Custom Size</strong>, any "
+"time you change your custom width or height, you will need to <a href="
+"\"https://wordpress.org/plugins/regenerate-thumbnails/\" target=\"_blank"
+"\">regenerate your thumbnail images</a>."
+msgstr ""
+"Estilo de imagem de miniatura de vídeo. Se você usar um <strong>tamanho "
+"personalizado</strong>, sempre que alterar sua largura ou altura "
+"personalizada, será necessário <a href=\"https://wordpress.org/plugins/"
+"regenerate-thumbnails/\" target=\"_blank\">regenerar suas imagens em "
+"miniatura</a>."
+
+#: includes/customize.php:717
+msgid "Custom thumbnail size width"
+msgstr "Largura de tamanho de miniatura personalizada"
+
+#: includes/customize.php:733
+msgid "Custom thumbnail size height"
+msgstr "Tamanho personalizado miniatura altura"
+
+#: includes/customize.php:744
+msgid "Mobile Device Display"
+msgstr "Exibição do dispositivo móvel"
+
+#: includes/customize.php:747
+msgid "Always show titles and arrows on mobile devices."
+msgstr "Sempre mostre títulos e setas em dispositivos móveis."
+
+#: includes/customize.php:757
+msgid "Enable"
+msgstr "Habilitar pagamentos de cartão de crédito"
+
+#: includes/customize.php:757
+msgid "Profiles"
+msgstr "Perfis"
+
+#: includes/customize.php:760
+msgid "Display profile photos and details."
+msgstr "Exibir fotos e detalhes do perfil."
+
+#: includes/customize.php:766
+msgid "Video Page Settings"
+msgstr "Configurações da página de vídeo"
+
+#: includes/customize.php:767
+msgid "Default video page settings"
+msgstr "Configurações de página de vídeo padrão"
+
+#: includes/customize.php:780
+msgid "Layout"
+msgstr "Layout"
+
+#: includes/customize.php:783 includes/customize.php:896
+#: includes/customize.php:1083
+msgid "Standard"
+msgstr "Padrão"
+
+#: includes/customize.php:784
+msgid "Netflix"
+msgstr "Netflix"
+
+#: includes/customize.php:785 includes/theme-social-settings.php:57
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/customize.php:788
+msgid "Default video page layout."
+msgstr "Layout de página de vídeo padrão."
+
+#: includes/customize.php:798
+msgid "Show Related Videos"
+msgstr "Mostrar vídeos relacionados"
+
+#: includes/customize.php:801
+msgid "Display related videos below Netflix layout."
+msgstr "Exibir vídeos relacionados abaixo do layout da Netflix."
+
+#: includes/customize.php:812
+msgid "# of Related videos"
+msgstr "n º de vídeos relacionados"
+
+#: includes/customize.php:815
+msgid "The number of related videos to display."
+msgstr "O número de vídeos relacionados a serem exibidos."
+
+#: includes/customize.php:825 includes/customize.php:1198
+msgid "Show Recently Added Videos"
+msgstr "Mostrar vídeos adicionados recentemente"
+
+#: includes/customize.php:828
+msgid "Display recently added videos below Netflix layout."
+msgstr "Exiba vídeos adicionados recentemente abaixo do layout da Netflix."
+
+#: includes/customize.php:839
+msgid "# of Recently added videos"
+msgstr "# de vídeos recentemente adicionados"
+
+#: includes/customize.php:842
+msgid "The number of recently added videos to display."
+msgstr "O número de vídeos adicionados recentemente para exibir."
+
+#: includes/customize.php:853
+msgid "Enable shifting video background"
+msgstr "Ativar o fundo de vídeo de mudança"
+
+#: includes/customize.php:856
+msgid ""
+"When the screen size is smaller than the video featured image, the image "
+"will slowly pan across the screen. (Preview on mobile device below)"
+msgstr ""
+"Quando o tamanho da tela é menor do que a imagem de vídeo em destaque, a "
+"imagem vai lentamente Pan através da tela. (Preview no dispositivo móvel "
+"abaixo)"
+
+#: includes/customize.php:866
+msgid "Full Screen Video"
+msgstr "Vídeo em tela cheia"
+
+#: includes/customize.php:869
+msgid ""
+"Video players are full width of the screen when played. (Netflix video "
+"layout only)"
+msgstr ""
+"Os jogadores de vídeo são largura total da tela quando jogado. (Somente "
+"layout de vídeo da Netflix)"
+
+#: includes/customize.php:879
+msgid "Open In Full Screen"
+msgstr "Abrir em tela cheia"
+
+#: includes/customize.php:882
+msgid ""
+"Open videos in full screen on when thumbnail is pressed. (Netflix video "
+"layout only)"
+msgstr ""
+"Abra vídeos em tela cheia quando a miniatura é pressionada. (Somente layout "
+"de vídeo da Netflix)"
+
+#: includes/customize.php:893
+msgid "Video Access Style"
+msgstr "Estilo de acesso ao vídeo"
+
+#: includes/customize.php:897
+msgid "Full Screen"
+msgstr "Tela Cheia"
+
+#: includes/customize.php:900
+msgid ""
+"(<a href=\"https://www.wpvideosubscriptions.com/video-memberships/\" target="
+"\"_blank\">WP Video Memberships</a> only) How the video page displays for "
+"users without access. If you are using the Netflix layout above, we "
+"recommend using Standard for this."
+msgstr ""
+"(Somente<a href=\"https://www.wpvideosubscriptions.com/video-memberships/\" "
+"target=\"_blank\">assinaturas de vídeo WP</a> ) Como a página de vídeo é "
+"exibida para usuários sem acesso. Se você estiver usando o layout da Netflix "
+"acima, recomendamos usar o padrão para isso."
+
+#: includes/customize.php:906
+msgid "Video Reviews"
+msgstr "Revisões do vídeo"
+
+#: includes/customize.php:907
+msgid "Video reviews and ratings. (Reviews use default WordPress comments)"
+msgstr ""
+"Revisões e classificações de vídeo. (Comentários usar padrões WordPress "
+"comentários)"
+
+#: includes/customize.php:919
+msgid "Enable 5 Star Ratings"
+msgstr "Ativar 5 classificações de estrelas"
+
+#: includes/customize.php:922
+msgid "Enable / Disable 5 star ratings for videos."
+msgstr "Ativar/desativar as classificações de 5 estrelas para vídeos."
+
+#: includes/customize.php:932
+msgid "Star Ratings Color"
+msgstr "Cor das classificações da estrela"
+
+#: includes/customize.php:944
+msgid "Display Review Author"
+msgstr "Exibir autor de revisão"
+
+#: includes/customize.php:947
+msgid "Show / Hide review authors photo and username"
+msgstr "Mostrar/ocultar revisão autores foto e nome de usuário"
+
+#: includes/customize.php:954
+msgid "My List settings"
+msgstr "Minhas configurações de lista"
+
+#: includes/customize.php:969
+msgid ""
+"Turn on / off the My List feature. Allows users to save videos to their list."
+msgstr ""
+"Ative/desative o recurso minha lista. Permite que os usuários salvem vídeos "
+"para sua lista."
+
+#: includes/customize.php:985
+msgid "My List Page"
+msgstr "Minha página de lista"
+
+#: includes/customize.php:988
+msgid ""
+"The page that users My List videos will display. <em>Include "
+"<strong>[rvs_user_my_list]</strong> shortcode on page</em>"
+msgstr ""
+"A página que os meus vídeos de lista de usuários exibirá. <em>Incluir "
+"<strong>[rvs_user_my_list]</strong> shortcode na página</em>"
+
+#: includes/customize.php:996
+msgid "Buttons"
+msgstr "Botões"
+
+#: includes/customize.php:997
+msgid ""
+"Buttons Settings: For more customization, use the <a href=\"/wp-admin/"
+"customize.php?autofocus[section]=advanced_custom\">Advanced</a> area."
+msgstr ""
+"Configurações de botões: para mais personalização, use a área <a href=\"/wp-"
+"admin/customize.php?autofocus[section]=advanced_custom\">avançada</a> ."
+
+#: includes/customize.php:1010
+msgid "Button Style"
+msgstr "Estilo do Botão"
+
+#: includes/customize.php:1013
+msgid "Solid"
+msgstr "Sólido"
+
+#: includes/customize.php:1014
+msgid "Hollow"
+msgstr "Vazado"
+
+#: includes/customize.php:1017
+msgid "Changes the appearance of buttons."
+msgstr "Altera a aparência dos botões."
+
+#: includes/customize.php:1030
+msgid "5px"
+msgstr "5px"
+
+#: includes/customize.php:1033
+msgid "Button Border Radius"
+msgstr "Raio de borda do botão"
+
+#: includes/customize.php:1034
+msgid "Change the border radius of buttons"
+msgstr "Alterar o raio da borda dos botões"
+
+#: includes/customize.php:1047
+msgid "6px"
+msgstr "6px"
+
+#: includes/customize.php:1050
+msgid "Button Padding (Top/Bottom)"
+msgstr "Preenchimento de botão (superior/inferior)"
+
+#: includes/customize.php:1051
+msgid "Change the top and bottom padding of buttons"
+msgstr "Alterar o preenchimento superior e inferior dos botões"
+
+#: includes/customize.php:1064
+msgid "12px"
+msgstr "12px"
+
+#: includes/customize.php:1067
+msgid "Button Padding (Left/Right)"
+msgstr "Preenchimento de botão (esquerda/direita)"
+
+#: includes/customize.php:1068
+msgid "Change the left and right padding of buttons"
+msgstr "Alterar o preenchimento esquerdo e direito dos botões"
+
+#: includes/customize.php:1079
+msgid "Play Buttons"
+msgstr "Botões de reprodução"
+
+#: includes/customize.php:1082
+msgid "Large Play Icon"
+msgstr "Ícone do jogo grande"
+
+#: includes/customize.php:1086
+msgid "Displays on Netflix video pages and the drop down browsing section."
+msgstr ""
+"Exibe nas páginas de vídeo da Netflix e na seção de navegação suspensa."
+
+#: includes/customize.php:1096
+msgid "Button text for drop down video details"
+msgstr "Texto do botão para detalhes do vídeo suspenso"
+
+#: includes/customize.php:1105
+msgid "Login Page"
+msgstr "Página de Login"
+
+#: includes/customize.php:1106
+msgid "Customize your themes Login page"
+msgstr "Personalize sua página de login de temas"
+
+#: includes/customize.php:1117
+msgid "Background Image"
+msgstr "Imagem de Fundo"
+
+#: includes/customize.php:1130
+msgid "Hide Register Link"
+msgstr "Ocultar link de registro"
+
+#: includes/customize.php:1138
+msgid "Advanced"
+msgstr "Avançado"
+
+#: includes/customize.php:1139
+msgid "Add custom CSS and JS."
+msgstr "Adicione CSS e JS personalizados."
+
+#: includes/customize.php:1151
+msgid "Load Theme Gutenberg CSS"
+msgstr "Load Theme Gutenberg CSS"
+
+#: includes/customize.php:1173
+msgid "Custom Theme CSS"
+msgstr "Tema Personalizado CSS"
+
+#: includes/customize.php:1175
+msgid "Do not include \"style\" tags."
+msgstr "Não inclua Tags de \"estilo\"."
+
+#: includes/customize.php:1182
+msgid "Custom Theme JS"
+msgstr "Custom Theme JS"
+
+#: includes/customize.php:1184
+msgid "Do not include \"script\" tags."
+msgstr "Não inclua Tags de \"script\"."
+
+#: includes/review-functions.php:16
+msgid "Rating"
+msgstr "Avaliação"
+
+#: includes/review-functions.php:20
+msgid "Please select a rating"
+msgstr "Por favor selecione uma classificação"
+
+#: includes/scripts.php:331
+msgid "Adding"
+msgstr "Adicionando"
+
+#: includes/scripts.php:331
+msgid "Removing"
+msgstr "Remoção"
+
+#: includes/scripts.php:331
+msgid "You must be logged in."
+msgstr "Você precisa estar logado em."
+
+#: includes/shortcodes.php:230
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/shortcodes.php:266 includes/shortcodes.php:315
+#: includes/shortcodes.php:366
+msgid "hours left"
+msgstr "horas à esquerda"
+
+#: includes/shortcodes.php:281
+msgid "You have not rented any videos"
+msgstr "Você não alugou nenhum vídeo"
+
+#: includes/shortcodes.php:282 includes/shortcodes.php:332
+#: includes/shortcodes.php:388
+msgid "Browse videos"
+msgstr "Procurar vídeos"
+
+#: includes/shortcodes.php:331
+msgid "You have not purchased any videos"
+msgstr "Você não comprou nenhum vídeo"
+
+#: includes/shortcodes.php:387
+msgid "You have not added any videos to your list."
+msgstr "Você não adicionou nenhum vídeo à sua lista."
+
+#: includes/shortcodes.php:391
+msgid "The site administrator has disabled the My List feature."
+msgstr "O administrador do site desabilitou o recurso minha lista."
+
+#: includes/theme-google-tracking.php:28
+msgid "Site Verification (Meta Tag)"
+msgstr "Verificação do site (meta tag)"
+
+#: includes/theme-google-tracking.php:31
+msgid "Meta tag"
+msgstr "Meta tag"
+
+#: includes/theme-google-tracking.php:31
+msgid "Paste the content section of the meta tag only"
+msgstr "Cole a seção de conteúdo da meta tag somente"
+
+#: includes/theme-google-tracking.php:31
+msgid "meta name=\"google-site-verification\" content=\""
+msgstr "meta name = \"Google-site-verificação\" content = \""
+
+#: includes/theme-google-tracking.php:31
+msgid "PASTE PART THIS ONLY"
+msgstr "COLAR PARTE ESTA APENAS"
+
+#: includes/theme-google-tracking.php:35
+msgid "Google Analytics ID"
+msgstr "ID do Google Analytics"
+
+#: includes/theme-google-tracking.php:40
+msgid "Google Tag Manager ID"
+msgstr "Google Tag Manager ID"
+
+#: includes/theme-google-tracking.php:45
+msgid "Cookie Notice Integration"
+msgstr "Integração de avisos de cookies"
+
+#: includes/theme-google-tracking.php:48
+#, php-format
+msgid "If you are using the %s plugin, this we recommend enabling this option"
+msgstr ""
+"Se você estiver usando o plug-in %s, isso recomendamos ativar esta opção"
+
+#: includes/theme-settings.php:8
+msgid "Use the WordPress Customizer to change theme styling."
+msgstr "Use o WordPress Customizer para mudar o estilo do tema."
+
+#: includes/theme-settings.php:9
+msgid ""
+"Options for <strong>Single Video Pages</strong>, <strong>Video Browsing "
+"Pages</strong>, <strong>Horizontal Sliders</strong>, etc. can be found in "
+"the WordPress Customizer."
+msgstr ""
+"Opções para <strong>páginas de vídeo único</strong>, <strong>páginas de "
+"navegação de vídeo</strong>, <strong>sliders horizontais</strong>, etc pode "
+"ser encontrado no Personalizador WordPress."
+
+#: includes/theme-settings.php:10
+msgid "Customize My Theme"
+msgstr "Personalize o meu tema"
+
+#: includes/theme-shortcodes.php:7
+msgid "WPVS Theme Shortcodes"
+msgstr "WPVS Theme Shortcodes"
+
+#: includes/theme-shortcodes.php:14
+msgid "Optional Settings"
+msgstr "Configurações opcionais"
+
+#: includes/theme-shortcodes.php:53
+msgid "My Genres Shortcodes"
+msgstr "Meus gêneros Shortcodes"
+
+#: includes/theme-social-settings.php:41
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/theme-social-settings.php:45
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/theme-social-settings.php:49
+msgid "Google+"
+msgstr "Google/aplicar pagamento"
+
+#: includes/theme-social-settings.php:53
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/theme-social-settings.php:61
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/theme-social-settings.php:65
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/theme-widgets.php:7
+msgid "Social Accounts"
+msgstr "Redes Sociais"
+
+#: includes/theme-widgets.php:8
+msgid "Displays social media accounts."
+msgstr "Exibe contas de mídia social."
+
+#: includes/theme-widgets.php:22
+msgid "Connect with us"
+msgstr "Conecte com a gente"
+
+#: includes/theme-widgets.php:25
+msgid "Title"
+msgstr "Título"
+
+#: includes/theme-widgets.php:28
+msgid "Displays social media accounts. Add social accounts"
+msgstr "Exibe contas de mídia social. Adicionar contas sociais"
+
+#: includes/theme-widgets.php:30
+msgid "here"
+msgstr "aqui"
+
+#: includes/walkers.php:82
+msgid "Your comment is awaiting moderation"
+msgstr "Seu comentário aguarda moderação"
+
+#: includes/walkers.php:174
+msgid "Your review is awaiting moderation"
+msgstr "Sua avaliação aguarda moderação"
+
+#: searchform.php:3
+msgid "Enter Search"
+msgstr "Inserir pesquisa"
+
+#: searchform.php:5
+msgid "Search"
+msgstr "Pesquisar"
+
+#: side-bar-content.php:20
+msgid "Read More"
+msgstr "Leia Mais"
+
+#: single-rvs_video.php:52
+msgid "Download"
+msgstr "Download"
+
+#: single-rvs_video.php:124
+msgid "This content is for members only"
+msgstr "Este conteúdo é apenas para membros"
+
+#: template/browse-show-sliders.php:29 template/browse-sliders.php:28
+#: template/rvs-show-taxonomy.php:25 template/rvs-video-taxonomy.php:30
+msgid "Browse"
+msgstr "Procurar"
+
+#: template/default-home.php:35
+msgid "Continue Watching"
+msgstr "Continuar assistindo"
+
+#: template/default-home.php:93 template/related-videos.php:113
+msgid "Recently Added"
+msgstr "Adicionado recentemente"
+
+#: template/full-screen-access.php:16
+msgid "Remember Me"
+msgstr "Lembrar-me"
+
+#: template/full-screen-access.php:17
+msgid "Log In"
+msgstr "Entrar"
+
+#: template/full-screen-access.php:25
+msgid "Sign In"
+msgstr "Entrar"
+
+#: template/full-screen-access.php:26
+msgid "Create Account"
+msgstr "Criar Conta"
+
+#: template/full-screen-access.php:32
+msgid "Forgot Password"
+msgstr "Esqueceu a senha"
+
+#. translators: %s: post title
+#: template/reviews.php:31
+#, php-format
+msgctxt "reviews title"
+msgid "One review on &ldquo;%s&rdquo;"
+msgstr "Uma revisão sobre \" %s\""
+
+#: template/reviews.php:36
+#, php-format
+msgctxt "reviews title"
+msgid "%1$s review on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s reviews on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Review on \"%2$s\""
+msgstr[1] "%1$s comentários sobre \"%2$s\""
+
+#: template/reviews.php:78
+msgid "Reviews are closed."
+msgstr "Os comentários estão fechados."
+
+#: template/reviews.php:85
+msgid "Leave Review"
+msgstr "Deixe sua avaliação"
+
+#: template/reviews.php:89
+msgid "Add Review"
+msgstr "Adicionar Avaliação"
+
+#: template/reviews.php:91
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to add a review."
+msgstr ""
+"Você deve estar <a href=\"%s\">conectado</a> para adicionar uma revisão."
+
+#: template/reviews.php:94
+msgid "You have already submitted a review for this video"
+msgstr "Você já enviou uma revisão para este vídeo"
+
+#: template/rvs-profile-taxonomy.php:33
+msgid "More Details"
+msgstr "Mais Detalhes"
+
+#: template/single-video-netflix.php:24 template/single-video-standard.php:10
+#: template/single-video-youtube.php:12
+#, php-format
+msgid "starts in <span id=\"wpvs-autoplay-count\">%d</span> seconds"
+msgstr "começa em <span id=\"wpvs-autoplay-count\">% d</span> segundos"
+
+#: template/single-video-netflix.php:80
+msgid "Play"
+msgstr "Play"
+
+#: template/single-video-netflix.php:84
+msgid "Resume"
+msgstr "Currículo"
+
+#: template/single-video-netflix.php:91
+msgid "Trailer"
+msgstr "Trailer"
+
+#: template/vs-search.php:11
+msgid "Searching videos"
+msgstr "Pesquisando vídeos"
+
+#: template/vs-search.php:35
+msgid "Browse by Keyword"
+msgstr "Procurar por palavra-chave"
+
+#: updates/Puc/v4p4/Plugin/Ui.php:54
+msgid "View details"
+msgstr "Ver detalhes"
+
+#: updates/Puc/v4p4/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr "Mais informações sobre %s"
+
+#: updates/Puc/v4p4/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr "Verificar Atualizações"
+
+#: updates/Puc/v4p4/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "O plugin %s está atualizado."
+
+#: updates/Puc/v4p4/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "Uma nova versão do plugin %s está disponível."
+
+#: updates/Puc/v4p4/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr "Não foi possível determinar se existem Atualizações para %s."
+
+#: updates/Puc/v4p4/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Status do verificador de atualizações desconhecido \"%s\""
+
+#: updates/Puc/v4p4/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr "Não há changelog disponível."
+
+#: updates/version-checks.php:12
+msgid "IMPORTANT: WP Video Memberships needs an update. Please <a href=\""
+msgstr ""
+"IMPORTANTE: as assinaturas de vídeo WP precisam de uma atualização. Por "
+"favor < a href = \""
+
+#. Theme Name of the plugin/theme
+msgid "WPVS Theme"
+msgstr "WPVS Theme"
+
+#. Description of the plugin/theme
+msgid ""
+"A Netflix style theme for the WP Videos plugin and WP Video Memberships add-"
+"on."
+msgstr ""
+"Um tema de estilo Netflix para o plugin WP videos e WP Video Membership Add-"
+"on."
+
+#. Author of the plugin/theme
+msgid "Rogue Web Design"
+msgstr "Rogue Web design"
+
+#. Author URI of the plugin/theme
+msgid "https://roguewebdesign.ca"
+msgstr "https://roguewebdesign.ca"
+
+#. Template Name of the plugin/theme
+msgid "Full Width No Title */"
+msgstr "Largura total sem título */"
+
+#. Template Name of the plugin/theme
+msgid "Membership Pages */"
+msgstr "Páginas de membros */"
+
+#. Template Name of the plugin/theme
+msgid "Full Width */"
+msgstr "Largura Total */"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Stretched */"
+msgstr "Largura total esticada */"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder (plugin builders) */"
+msgstr "Construtor de páginas (construtores de plugins) */"

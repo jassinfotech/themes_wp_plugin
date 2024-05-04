@@ -1,0 +1,13 @@
+/**
+ * Note that these styles are loaded *before* editor styles, so that
+ * editor-specific styles using the same selectors will take precedence.
+ */
+
+ /* === EDITOR STYLES === */
+ @media only screen and (min-width: 961px) {
+     .is-sidebar-opened .editor-styles-wrapper .wp-block {
+       width: calc(100vw - 461px);
+       max-width: calc(100vw - 461px);
+     }
+ }
+ /* === END EDITOR STYLES === */
